@@ -631,10 +631,10 @@ class Codebase(object):
 
         if rid == 0:
             res = attr.evolve(self.root)
-        elif not rid or rid not in self.resource_ids:
-            res = None
         elif self._use_disk_cache_for_resource(rid):
             res = self._load_resource(rid)
+        elif not rid or rid not in self.resource_ids:
+            res = None
         else:
             res = self.resources.get(rid)
             res = attr.evolve(res)
@@ -1189,7 +1189,7 @@ class Resource(object):
 
     def descendants(self, codebase):
         """
-        Return a sequence of descendant Resource objects 
+        Return a sequence of descendant Resource objects
         (doe NOT include self).
         """
         return list(self.walk(codebase,topdown=True))
