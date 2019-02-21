@@ -1,0 +1,252 @@
+<html>
+<head>
+<meta name="generator" content="skyBuilders.com timeLines">
+<link rel="stylesheet" href="http://www.skybuilders.com/timelines/PageFooter.css"><script type="text/javascript" language="javascript"><!-- 
+if (typeof SymRealWinOpen == 'function') {
+window.open = SymRealWinOpen;
+}
+//--></script>
+
+<script type="text/javascript" language="javascript">
+var sPageSeriesName = "OpenSourceLicense.html";
+var sRequestedFileName = "OpenSourceLicense.20010706132001.html";
+var sSkyPageID = "733";
+function mSkyWrite() {
+window.open('/timelines/index.html?skyWrite=True&UserID=6&chosenLocaleCode=&PageSeriesID=507&PageID=733&DirPath=%2F', '_blank', 'resizable,menubar,location,toolbar,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+var sCurrentlyOverDocument = 1;
+
+function fGetPagePos(oElement, sDimension) {
+  var sPagePos;
+  
+  if (! (oElement = document.getElementById(oElement))) {
+    return 0;
+  }
+  
+  sPagePos = 0;
+  
+  // alert(oElement);
+  while (oElement) {
+    if (typeof(oElement['offset' + sDimension]) != 'undefined') {
+      sPagePos += oElement['offset' + sDimension];
+    }
+    // alert(typeof oElement.offsetParent);
+    if (typeof(oElement.offsetParent) != 'undefined') {
+      oElement = oElement.offsetParent;
+    } else {
+      oElement = null;
+    }
+  }
+  
+  return sPagePos;
+}
+
+function fSkyWritableOver(sDivID, oEvent) {
+  var oDiv;
+  
+  if (oEvent) {
+    sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+    if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+      window.status = 'click to edit';
+    }
+  }
+  
+  // alert(typeof sDivID);
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 0;
+    oDiv = document.getElementById(sDivID);
+    oSkyIncludeEditablePencil = document.getElementById('skyIncludeEditablePencil');
+    oSkyIncludeEditableCorner = document.getElementById('skyIncludeEditableCorner');
+    // sDivTop = oDiv.offsetTop;
+    sDivTop = fGetPagePos(sDivID, 'Top');
+    sDivLeft = fGetPagePos(sDivID, 'Left');
+    sDivWidth = oDiv.offsetWidth;
+    sDivHeight = oDiv.offsetHeight;
+    // alert('div: ' + sDivTop);
+    // alert(sDivWidth);
+    
+    oSkyIncludeEditablePencil.style.top = sDivTop + 'px';
+    oSkyIncludeEditablePencil.style.left = (sDivLeft + sDivWidth - 21) + 'px';
+    oSkyIncludeEditableCorner.style.top = (sDivTop + sDivHeight - 11) + 'px';
+    oSkyIncludeEditableCorner.style.left = sDivLeft + 'px';
+    // oSkyIncludeEditable.style.height = '0px';
+    // oSkyIncludeEditable.style.border = '#0000ff dashed 1px';
+    oSkyIncludeEditablePencil.style.width = '21px';
+    oSkyIncludeEditablePencil.style.height = '19px';
+    oSkyIncludeEditablePencil.style.zIndex = '101';
+    oSkyIncludeEditablePencil.onmouseover = oDiv.onmouseover;
+    oSkyIncludeEditablePencil.onmouseout = oDiv.onmouseout;
+    oSkyIncludeEditablePencil.onclick = oDiv.onclick;
+    oSkyIncludeEditableCorner.style.width = '10px';
+    oSkyIncludeEditableCorner.style.height = '9px';
+    oSkyIncludeEditableCorner.style.zIndex = '101';
+    oSkyIncludeEditableCorner.onmouseover = oDiv.onmouseover;
+    oSkyIncludeEditableCorner.onmouseout = oDiv.onmouseout;
+    oSkyIncludeEditableCorner.onclick = oDiv.onclick;
+    // oSkyIncludeEditable.style.display = 'block';
+    
+    // sSkyIncludeEditableTop = oSkyIncludeEditable.style.top;
+    // alert('skyinclude: ' + sSkyIncludeEditableTop);
+    
+    if (0) {
+      oDiv.style.borderWidth = '1px';
+      oDiv.style.borderStyle = 'dashed';
+      oDiv.style.borderColor = '#0000ff';
+    }
+  } else {
+    // sCurrentlyOverDocument = 1;
+  }
+}
+
+function fSkyWritableOut(sDivID) {
+  var oDiv;
+  
+  window.status = '';
+  
+  if (typeof sDivID == 'string') {
+    sCurrentlyOverDocument = 1;
+    // oDiv = document.getElementById(sDivID);
+    // doesn't work in IE: oDiv.style.border = '1px solid transparent';
+    // document.getElementById('skyIncludeEditable').style.display = 'none';
+    document.getElementById('skyIncludeEditablePencil').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditablePencil').style.top = '-100';
+    document.getElementById('skyIncludeEditableCorner').style.zIndex = '-1';
+    document.getElementById('skyIncludeEditableCorner').style.top = '-100';
+    // oDiv.style.border = '1px solid #ffffff';
+  }
+}
+
+function fDocumentOnClick(oEvent) {
+  // alert(sCurrentlyOverDocument);
+  // if (0) {
+  if (sCurrentlyOverDocument == 1) {
+    fSkyWriteInclude(507, 733, '/', oEvent);
+  }
+}
+
+function fSkyWriteInclude(sPageSeriesID, sPageID, sDirPath, oEvent) {
+var sIndicatorClicked, sControlKeyPressed, sShiftKeyPressed;
+var sElement;
+
+// check for shift or control key depressed
+oEvent = (oEvent) ? oEvent : (window.event) ? window.event : ''
+
+sIndicatorClicked = 0;
+sControlKeyPressed = 0;
+sShiftKeyPressed = 0;
+if (oEvent) {
+  sModifierPressed = '';
+  
+  sElement = (oEvent.target) ? oEvent.target : oEvent.srcElement;
+  // alert(sElement.id);
+  
+  if ((sElement.id == 'skyIncludeEditablePencilImg') || (sElement.id == 'skyIncludeEditableCornerImg')){
+    sIndicatorClicked = 1;
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.ctrlKey) {
+      sControlKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.CTRL_MASK) {
+        // sControlKeyPressed = oEvent.modifiers;
+        sControlKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.ctrlKey) {
+        sControlKeyPressed = 1;
+      }
+    }
+  }
+  
+  if (oEvent.which) {
+    if (oEvent.shiftKey) {
+      sShiftKeyPressed = 1;
+    }
+  } else {
+    if (oEvent.modifiers) {
+      if (oEvent.modifiers && oEvent.SHIFT_MASK) {
+        // sShiftKeyPressed = oEvent.modifiers;
+        sShiftKeyPressed = 1;
+      }
+    } else {
+      if (oEvent.shiftKey) {
+        sShiftKeyPressed = 1;
+      }
+    }
+  }
+}
+
+// if shift or control key pressed
+if ((sIndicatorClicked) || (sControlKeyPressed == 1) || (sShiftKeyPressed == 1)) {
+  // alert('pressed');
+  window.open('http://www.skybuilders.com/timelines/index.html?skyWrite=True&PageSeriesID=' + sPageSeriesID + '&PageID=' + sPageID + '&DirPath=' + sDirPath, '_blank', 'menubar,toolbar,location,resizable,scrollbars,status,height=600,width=832,left=250,top=50', true);
+}
+}
+    
+</script>
+	<title>skyBuilders Open Source License</title>
+</head>
+
+<body bgcolor="#f8f0e8">
+<h1>skyBuilders Open Source License</h1>
+<P>
+<h2>Draft Version 1.0</h2>
+Copyright (c) 1999-2001 skyBuilders.com, Inc. 77 Huron Avenue, Cambridge, MA 02138, USA. All rights reserved. (This license itself may be modified and adapted for non-skyBuilders  purposes.)
+<P>
+skyBuilders.com, Inc. and all Contributors hereby grant a world-wide, royalty-free, non-exclusive license, subject to third party intellectual property claims, to use, reproduce, modify, display, perform, sublicense and distribute this software (or portions thereof) with or without modifications, and/or as part of a larger work. 
+<P>
+Neither the name or trademarks of skyBuilders.com nor the names or trademarks of other Contributors may be used to endorse or promote products derived from this software without specific prior written permissions. 
+<P>
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 
+<P>
+Redistributions of source code must leave the Contributors' credits intact in each timeLines serverPage and include this license in its entirety in each serverPage. 
+<P>
+Redistributions in binary form must reproduce this license in its entirety in the documentation and/or other materials provided with the distribution. 
+<P>
+Compressed electronic distributions, for example on archive sites or CD-ROMS, must include this license in its entirety in a readme or equivalent file at the outer level of the unpacked distribution. 
+<P>
+IF this code is included in a compilation or combined with code licensed under other licenses, and if those other licenses are cited at the outer level, THEN the citations must include the following statement: 
+<P>
+Portions of this software copyright (c) 1999-2001 skyBuilders.com, Inc. and licensed under the skyBuilders Open Source License,
+<P>
+ELSE IF the compilation uses just a single open-source license at the outer level, THEN it must be one of the licenses Certified by the Open Source Initiative (http://www.opensource.org).
+<P>
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND OTHER CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL SKYBUILDERS OR OTHER CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THIS EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU.
+<P>
+
+
+<div id="skyFooter733" class="skyFooter">
+
+<script type="text/javascript" language="javascript">
+document.onclick = fDocumentOnClick;
+document.onmouseover = fSkyWritableOver;
+</script>
+<div class="skyFooterVersionLinks">
+  <a id="skyFooterPreviousVersionLink" class="skyFooterLink" href="OpenSourceLicense.20010705134426.html">&lt;</a>
+  <a id="skyFooterPersistentArchiveLink" class="skyFooterLink" href="OpenSourceLicense.parc.html?FullRelDirPath=%2F"><img id="imgPersistentArchive" name="imgPersistentArchive" src="/timelines/Images/hive.gif" border="0" alt="Persistent Archive"></a>
+  <a id="skyFooterNextVersionLink" class="skyFooterLink" href="OpenSourceLicense.20021112100529.html">&gt;</a>
+</div>
+<a class="skyFooterLink" href="" onclick="mSkyWrite(); return false;">Edit</a>&nbsp;
+<div class="skyFooterLocaleText">Language:&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Cfr&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">fr</a>&nbsp;
+|&nbsp;<a class="skyFooterLocalLocaleLink" href="OpenSourceLicense.20010706132001.it.html">it</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Cde&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">de</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Ces&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">es</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Cpt&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">pt</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Car&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">ar</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Che&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">he</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Cda&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">da</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Cnl&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">nl</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Czh&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">zh</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Cja&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">ja</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://translate.google.com/translate?hl=en&ie=UTF-8&oe=UTF-8&langpair=en%7Cko&u=http%3A%2F%2Fwww.skybuilders.com%2FOpenSourceLicense.20010706132001.html&prev=%2Flanguage_tools" target="_blank">ko</a>&nbsp;
+|&nbsp;<a class="skyFooterLocaleLink" href="http://www.skybuilders.com/OpenSourceLicense.html?LanguageCode=none" title="Use the language code set in your browser.">none</a>&nbsp;</div>
+    <div class="skyFooterBlock"><a class="skyFooterLink" href='' onclick="window.top.document.location.href = '/timelines/index.html?DoWhat=Login&UserNameEmail=Guest&PWString=Guest&Module=Pages&skyTime=&MenuOptionID=120&SkyBrowserHref=%2FOpenSourceLicense.20010706132001.html'; return false;">skyCalendar</a>
+</div><div class="skyFooterText"><p>This Version: <script type='text/javascript' language='javascript'>var thisDate; thisDate = new Date; thisDate.setTime(994527600000); document.write(thisDate);</script><br />Archived at: http://www.skybuilders.com/OpenSourceLicense.20010706132001.html<br /></p><div class="skyFooterRequests"><div class="skyFooterRequestsLabel">Requests</div>&nbsp;Version: 9197 | Series: 40843&nbsp;</div>
+</div>
+
+</div>
+</body>
+</html>

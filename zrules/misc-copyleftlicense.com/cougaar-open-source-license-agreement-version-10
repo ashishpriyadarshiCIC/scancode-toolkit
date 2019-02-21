@@ -1,0 +1,259 @@
+Cougaar Open Source License Agreement - Version 1.0
+--------------------------------------------------------------------
+
+People :
+----------------------------------
+
+Author : The Cougaar Group
+
+Text :
+----------------------------------
+
+
+The Cougaar Open Source License Agreement
+Copyright (c) 1999-2002 The Cougaar Group.
+All rights reserved. 
+This Cougaar Open Source License Agreement
+(the 'Agreement') sets forth the terms and conditions under which the Cougaar
+Software (as defined below), sponsored by the Defense Advanced Research
+Agency, will be licensed by BBNT Solutions, LLC ('BBN') or other identified
+copyright holder called ('Licensor') to you ('Licensee' or 'You'), and
+under which Derivative Works (as defined below) of Cougaar Software will
+be licensed by Licensee to Licensor and the Cougaar Group. 
+Definitions: 
+ 'Cougaar Software' means the Cognitive
+Agent Architecture software originally created and released by Licensor
+under this Agreement. 
+'Cougaar Site' means the web site available
+at the URL http://www.cougaar.org or such other URL as provided to Licensee
+by Licensor. 
+'Cougaar Group' means the administrative
+body responsible for the Cougaar Site and the body acting on behalf of
+the Cougaar development community to manage the development of the technology
+and facilitate transition and adoption.  The Cougaar Group can be
+contacted for questions or submission of Derivative Work(s) at cougaar@cougaar.org.
+'Core Architecture' means the foundation
+classes, services, data structures and logic providers which constitute
+the non-application component Cougaar Agent.  This does not include
+PlugIns, PSPs, Servlets, Binders, Logic Providers, Assets, Scoring Functions,
+Predictors and Domain Data Models.
+'PlugIn-Type Components' means any set
+of PlugIns, PSPs, Servlets Binders, Logic Providers, Assets, Scoring Functions,
+Predictors and/or Domain Data Models.  These components represent
+the application specific components of a Cougaar Agent.  PlugIn-Type
+Components does not include the foundation classes, services, data structures
+and logic providers of the Core Architecture.  
+'Cougaar Agent' means the software capability
+created by assembling a set of PlugIns into an instantiation of the Core
+Architecture for the purposes of providing some application specific functionality.
+'Cougaar Application' means the collection
+of one or more agents that constitute a domain specific software program.
+'Derivative Work' means any revision, enhancement,
+modification, translation, abridgement, condensation or expansion of the
+Cougaar Software created by Licensee.  This does not include development
+of PlugIn-Type Components which are subclassed from Cougaar classes in
+the Cougaar Core Architecture or from any examples and training material
+provided on the Cougaar Site.
+'Executable Code' means the fully compiled
+version of a software program that can be executed by a computer and used
+by an end user without further compilation.
+ 'Freely Available' means that no
+fee is charged for the item itself, though there may be fees involved in
+handling the item. It also means that recipients of the item may redistribute
+such item under the same terms and conditions that they received it.  
+'Licensee Software' means any software
+owned or licensed by Licensee that does not include Source Code of the
+Cougaar Software. 
+Source Code means the human-readable version
+of a software program. 
+ 
+Terms: 
+1. Licensor maintains all rights, title
+and interest in and to the Cougaar Software, including, without limitation,
+all applicable copyrights, trade secrets, patents and other intellectual
+property rights therein.  
+2. Licensor hereby grants to Licensee a
+royalty free, transferable, perpetual, irrevocable, worldwide right and
+license to use, modify, copy, distribute, publicly perform, publicly display,
+and make Derivative Works of the Cougaar Software in Source Code and/or
+Executable Code formats, and sublicensing rights of any of the foregoing
+in accordance with the terms and conditions of this Agreement, provided
+that Licensee duplicates all of the original copyright notices and associated
+disclaimers.  
+3. Licensee may use, sell or give away
+the Cougaar Software or any Derivative Work, alone or as a component of
+an aggregate software distribution containing Licensee Software, Cougaar
+Applications and/or programs from several different sources.  No royalty
+or other fee is required. If Licensee sublicenses the Cougaar Software
+or Derivative Works, Licensee may charge fees for warranty or support,
+or for accepting indemnity or liability obligations of customers, provided
+that Licensee does not charge for the Cougaar Software or Derivative Work. 
+4. Licensee maintains all rights, title
+and interest in and to any Licensee Software and any Derivative Work, including,
+without limitation, all applicable copyrights, trade secrets, patents and
+other intellectual property rights therein.  Licensee hereby grants
+to Licensor and the Cougaar Group a royalty free, worldwide right and license
+to use, copy, distribute and make derivative works of Derivative Works
+and sublicensing rights of any of the foregoing. Licensee understands and
+agrees that it shall place any and all Derivative Works in the public domain
+or otherwise make them Freely Available for a reasonable copying fee as
+requested.  This agreement does not extend to Licensee developed PlugIn-Type
+Components unless the Licensee chooses to contribute them back to the community,
+at which time they would be treated as a Derivative Work for licensing
+purposes.  The Licensee is under no obligation to contribute Licensee
+developed PlugIn-Type Components back to community.
+5. Licensee understands and agrees that
+its right to create Derivative Works is subject to the requirement that
+it shall insert a prominent notice in each changed file of the Derivative
+Work stating how and when Licensee modified that file or made such Derivative
+Work. Licensee further understands and agrees that it shall either place
+a copy of any and all Derivative Work(s) on the Cougaar Site or mail a
+copy of any and all Derivative Work(s) to the Cougaar Group within 90 days
+of developing the Derivative Work(s).  
+6. Licensee must duplicate this Agreement
+in any documentation provided along with the Source Code of the Cougaar
+Software or any Cougaar Application which Licensee distributes, wherever
+Licensee describe recipientsﾒ rights relating to Cougaar Software and/or
+Cougaar Application.  Licensee must duplicate the following notice
+(the 'Notice') in each file of the Source Code of any copy of the Cougaar
+Software the Licensee distributes: 
+ 
+/* 
+ *  
+ *  Copyright 1997-2001 (Orig
+Developer Company Name Here) 
+ *  under sponsorship of the
+Defense Advanced Research Projects 
+ *  Agency (DARPA). 
+ *  
+ *  This program is free software;
+you can redistribute it and/or modify 
+ *  it under the terms of the
+Cougaar Open Source License as published by 
+ *  DARPA on the Cougaar Open
+Source Website (www.cougaar.org).  
+ *  
+ *  THE COUGAAR SOFTWARE AND
+ANY DERIVATIVE SUPPLIED BY LICENSOR IS  
+ *  PROVIDED "AS IS" WITHOUT
+WARRANTIES OF ANY KIND, WHETHER EXPRESS OR  
+ *  IMPLIED, INCLUDING (BUT
+NOT LIMITED TO) ALL IMPLIED WARRANTIES OF  
+ *  MERCHANTABILITY AND FITNESS
+FOR A PARTICULAR PURPOSE, AND WITHOUT  
+ *  ANY WARRANTIES AS TO NON-INFRINGEMENT. 
+IN NO EVENT SHALL COPYRIGHT  
+ *  HOLDER BE LIABLE FOR ANY
+DIRECT, SPECIAL, INDIRECT OR CONSEQUENTIAL  
+ *  DAMAGES WHATSOEVER RESULTING
+FROM LOSS OF USE OF DATA OR PROFITS,  
+ *  TORTIOUS CONDUCT, ARISING
+OUT OF OR IN CONNECTION WITH THE USE OR  
+ *  PERFORMANCE OF THE COUGAAR
+SOFTWARE.  
+ *  
+ *  
+ * 
+ * CHANGE RECORD 
+ * - 12 June 1999: modified by (Subsequent
+Developer Company Name Here) to  
+ *   add feature X. 
+ * - 7 Dec 2000: modified by (Subsequent
+Developer Company Name Here) to  
+ *   fix bug Y. 
+ */ 
+If You created a Derivative Work, You may
+add Your name as a contributor to the Notice.  If it is not possible
+to put the Notice in a particular Source Code file due to its structure,
+then You must include the Notice in a location (such as a relevant directory
+file) where a user would be likely to look for such a notice. 
+7. Any data and/or images supplied by Licensee
+as input to or produced as output from the Cougaar Software belong to Licensee,
+as applicable, and may be sold commercially, and may be aggregated with
+the Cougaar Software.   Any PlugIn-Type Component developed by
+the Licensee is the sole property of the Licensee and is not considered
+a derivative work.  Cougaar applications composed of one or more Licensee
+developed PlugIn-Type Components may be marketed and sold commercially
+as Licensee products providing it includes the appropriate Cougaar License
+and web site references.
+8. Licensor makes no representation about
+the suitability of the Cougaar Software for any purposes. Licensor shall
+have no duty or requirement to include any Derivative Work into the Cougaar
+Software.  
+9. Each party hereto represents and warrants
+that they have the full unrestricted corporate authority to grant all rights
+and licenses granted to the other party herein.  
+10. THE COUGAAR SOFTWARE AND ANY DERIVATIVE
+WORK ARE PROVIDED 'AS IS' WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS
+OR IMPLIED, INCLUDING (BUT NOT LIMITED TO) ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+AND FITNESS FOR A PARTICULAR PURPOSE, AND WITHOUT ANY WARRANTIES AS TO
+QUIET ENJOYMENT OR NON-INFRINGEMENT.  
+11. IN NO EVENT SHALL EITHER PARTY BE LIABLE
+FOR ANY DIRECT, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES WHATSOEVER RESULTING
+FROM LOSS OF USE OF DATA OR PROFITS, TORTIOUS CONDUCT, ARISING OUT OF OR
+IN CONNECTION WITH THE USE OR PERFORMANCE OF THE COUGAAR SOFTWARE OR DERIVATIVE
+WORK, WHETHER OR NOT THE PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES AND NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED
+OR EXCLUSIVE REMEDY OF ANY KIND.  IN NO EVENT SHALL EITHER PARTY BE
+ENTILTED TO ANY MONETARY DAMAGES ARISING FROM OR RELATING TO THIS AGREEMENT,
+REGARDLESS OF THE FORM OF ACTION ALLEGED.  TO THE EXTENT THAT THIS
+EXCLUSION OF DAMAGES IS NOT VALID, THE PARTIES AGREE THAT IN NO EVENT WILL
+EITHER PARTYﾒS LIABILITY UNDER THIS AGREEMENT EXCEED $10.  THE PARTIES
+ACKNOWLEDGE AND AGREE THAT THE LIMITATIONS ON LIABILITY SET FORTH IN THIS
+AGREEMENT ARE INDEPENDENT OF EACH AND EVERY EXCLUSIVE AND LIMITED REMEDY
+THAT EITHER PARTY MAY HAVE. EACH PARTY ACKNOWLEDGES THAT THE CONSIDERATION
+GRANTED UNDER THIS AGREEMENT REFLECTS THE ALLOCATION OF RISK AGREED TO
+BY THE PARTIES AND THAT NEITHER PARTY WOULD HAVE ENTERED INTO THIS AGREEMENT
+WITHOUT THE LIMITATIONS OF LIABILITY SET FORTH HEREIN. 
+12. Each party (the 'Indemnifying Party')
+hereby understands and agrees to defend, indemnify, and hold harmless the
+other party (the 'Indemnified Party') from all actions brought against
+the Indemnified Party (and any related losses, expenses, or attorneyﾒs
+fees) arising out of, or relating to any claim that the software licensed
+by the Indemnifying Party to the Indemnified Party under this Agreement
+misappropriates or infringes upon, as applicable, a United States ('U.S.')
+patent that is issued by the date the software giving rise to such action
+is delivered to the Indemnified Party, a U.S. copyright or trademark, or
+a trade secret recognized as such under the Uniform Trade Secret law. In
+addition, Licensee agrees to indemnify the Licensor for any liability incurred
+by the Licensor as a result of warranty, support, indemnity or liability
+terms offered by Licensee. 
+13. Without limitation of the foregoing,
+Licensee agrees to commit no act which directly or indirectly, would violate
+any U. S. law, regulation, or treaty, or any other international treaty
+or agreement to which the United States adheres or with which the United
+States complies, to the extent such law, regulation, treaty or agreement
+relates to the export or re-export of any commodities, software, or technical
+data.  
+14. This Agreement constitutes the entire
+agreement between the parties with respect to the subject matter herein
+and supersedes all communications between the parties relating thereto.  
+15. This Agreement shall be construed and
+interpreted in accordance with the laws of the Commonwealth of Virginia,
+United States of America, without giving effect to its internal principals
+of conflict of laws.  Notwithstanding the foregoing, the Uniform Computer
+Information Transactions Act shall not apply to this Agreement. Any action
+brought in connection with this Agreement must be brought exclusively in
+either the U.S. District Court for the Eastern District of Virginia (Alexandria
+Division) or the state courts located in Fairfax County, Virginia, and
+the parties hereby irrevocably consent to the jurisdiction of such courts. 
+16. If any provision of this Agreement
+is held invalid, such invalidity shall not affect other provisions or application
+of the Agreement which can be given effect without the invalid provision
+or application, and to this end of the provisions of this Agreement are
+declared to be severable.  
+ 
+
+-- END --
+
+
+Events :
+----------------------------------
+
+     Cougaar Open Source License Agreement - Version 1.0 -- Added to http://www.CopyLeftLicense.com : May 06, 2017
+
+About This Textfile :
+----------------------------------
+
+     Text file generated from : 
+http://www.CopyLeftLicense.com/

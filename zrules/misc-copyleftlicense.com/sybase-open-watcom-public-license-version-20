@@ -1,0 +1,127 @@
+Sybase Open Watcom Public License - Version 2.0
+--------------------------------------------------------------------
+
+People :
+----------------------------------
+
+Author : Sybase
+
+Text :
+----------------------------------
+
+
+DRAFT
+
+Sybase Open Watcom Public License version 2.0
+
+USE OF SOFTWARE DESIGNATED AS SUBJECT TO THE SYBASE OPEN WATCOM PUBLIC LICENSE ("SOFTWARE") IS SUBJECT TO THE TERMS AND CONDITIONS OF THE LICENSE AGREEMENT SET FORTH BELOW (“LICENSE”). YOU MAY NOT USE THE SOFTWARE IN ANY MANNER UNLESS YOU ACCEPT THE TERMS AND CONDITIONS OF THE LICENSE. YOU INDICATE YOUR ACCEPTANCE BY IN ANY MANNER USING (INCLUDING WITHOUT LIMITATION BY REPRODUCING, MODIFYING OR DISTRIBUTING) THE SOFTWARE. IF YOU DO NOT ACCEPT ALL OF THE TERMS AND CONDITIONS OF THE LICENSE, DO NOT USE THE SOFTWARE IN ANY MANNER.
+
+1. Application; Definitions. This License applies to any Original Code (defined below) so designated by the original licensor and any Modifications (defined below). As used in this License:
+
+1.1 "Applicable Patent Rights" mean: (a) in the case where the Original Licensor is the grantor of rights, (i) claims of patents that are now or hereafter acquired, owned by or assigned to the Original Licensor and (ii) that cover subject matter contained in the Original Code, but only to the extent necessary to use, reproduce and/or distribute the Original Code without infringement; and (b) in the case where You are the grantor of rights, (i) claims of patents that are now or hereafter acquired, owned by or assigned to You and (ii) that cover subject matter in Your Modifications, taken alone or in combination with Original Code.
+
+1.2 "Contributor" means any person or entity that creates or contributes to the creation of Modifications.
+
+1.3 "Covered Code" means the Original Code, Modifications, the combination of Original Code and any Modifications, and/or any respective portions thereof.
+
+1.4 "Externally Deploy" means: (a) to sublicense, distribute or otherwise make Covered Code available, directly or indirectly, to anyone other than You; and/or (b) to use Covered Code, alone or as part of a Larger Work, in any way to provide a service, including but not limited to delivery of content, through electronic communication with a client other than You.
+
+1.5 "Larger Work" means a work which combines Covered Code or portions thereof with code not governed by the terms of this License.
+
+1.6 "Modifications" mean any addition to, deletion from, and/or change to, the substance and/or structure of the Original Code, any previous Modifications, the combination of Original Code and any previous Modifications, and/or any respective portions thereof. When code is released as a series of files, a Modification is: (a) any addition to or deletion from the contents of a file containing Covered Code; and/or (b) any new file or other representation of computer program statements that contains any part of Covered Code.
+
+1.7 "Original Code" means (a) the Source Code of a program or other work as originally made available by the Original Licensor under this License, including the Source Code of any updates or upgrades to such programs or works made available by the Original Licensor under this License, and that has been expressly identified by the Original Licensor as such in the header file(s) of such work; and (b) the object code compiled from such Source Code and originally made available by the Original Licensor under this License.
+
+1.8 “Original Licensor” is the person or entity that owns the rights in the Original Code.
+
+1.9 "Source Code" means the human readable form of a program or other work that is suitable for making modifications to it, including all modules it contains, plus any associated interface definition files, scripts used to control compilation and installation of an executable (object code).
+
+1.10 "You" or "Your" means an individual or a legal entity exercising rights under this License. For legal entities, "You" or "Your" includes any entity which controls, is controlled by, or is under common control with, You, where "control" means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
+
+2. Permitted Uses; Conditions & Restrictions. Subject to the terms and conditions of this License, the Original Licensor hereby grants You, effective on the date You accept this License and download the Original Code, a world-wide, royalty-free, non-exclusive license, to the extent of the Original Licensor's Applicable Patent Rights and copyrights covering the Original Code, to do the following:
+
+2.1 Unmodified Code. You may use, reproduce, display, perform, internally distribute within Your organization, and Externally Deploy verbatim, unmodified copies of the Original Code, for commercial or non-commercial purposes, provided that in each instance:
+
+(a) You must retain and reproduce in all copies of Original Code the copyright and other proprietary notices and disclaimers of the Original Licensor as they appear in the Original Code, and keep intact all notices in the Original Code that refer to this License; and
+
+(b) You must retain and reproduce a copy of this License with every copy of Source Code of Covered Code and documentation You distribute or Externally Deploy, and You may not offer or impose any terms on such Source Code that alter or restrict this License or the recipients' rights hereunder, except as permitted under Section 6; and
+
+(c) Whenever reasonably feasible you should include the copy of this License in a click- wrap format, which requires affirmative acceptance by clicking on an "I accept" button or similar mechanism. If a click-wrap format is not included, you must include a statement that any use (including without limitation reproduction, modification or distribution) of the Software, and any other affirmative act that you define, constitutes acceptance of the License, and instructing the user not to use the Covered Code in any manner if the user does not accept all of the terms and conditions of the License.
+
+2.2 Modified Code. You may modify Covered Code and use, reproduce, display, perform, internally distribute within Your organization, and Externally Deploy Your Modifications and Covered Code, for commercial or non-commercial purposes, provided that in each instance You also meet all of these conditions:
+
+(a) You must satisfy all the conditions of Section 2.1; and
+
+(b) You must identify yourself as the originator of your Modifications in a manner that reasonably allows subsequent recipients to identify the originator of the Modification; and
+
+(c) If You Externally Deploy Your Modifications, You must make Source Code of all Your Externally Deployed Modifications either available to those to whom You have Externally Deployed Your Modifications, or publicly available. Source Code of Your Externally Deployed Modifications must be released under the terms set forth in this License, including the license grants set forth in Section 3 below, for as long as you Externally Deploy the Covered Code or twelve (12) months from the date of initial External Deployment, whichever is longer. You should preferably distribute the Source Code of Your Externally Deployed Modifications electronically (e.g. download from a web site).
+
+2.3 Distribution of Executable Versions. If You Externally Deploy Covered Code (Original Code and/or Modifications) in object code, executable form only, the following applies:
+
+(a) The object code form of the Covered Code may be distributed under Your own license agreement, provided that such license agreement contains terms no less protective of the Original Licensor and each Contributor than the terms of this License, and states that any provisions that differ from this License are offered by you alone and not by any other party. In particular, but without limiting the foregoing, Your license must effectively disclaim on behalf of the Original Licensor and all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non- infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose; and must effectively exclude on behalf of the Original Licensor and all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits. You hereby agree to indemnify, defend and hold the Original Licensor and every Contributor harmless from any liability incurred by or claims asserted against them by reason of any failure to satisfy this requirement; and
+
+(b) If You Externally Deploy Covered Code (Original Code and/or Modifications) in object code, executable form only, and you elect to do so under the terms of this License, You must include a prominent notice, in the code itself as well as in related user documentation, stating that Source Code of the Covered Code is available under the terms of this License with information on how and where to obtain such Source Code. No such notice is required if the distribution is under the terms of your own license agreement pursuant to subpart (a).
+
+2.4 Larger Works. You may create a Larger Work by combining Covered Code with other code not governed by the terms of this License and distribute the Larger Work as a single product. In each such instance, You must make sure the requirements of this License are fulfilled for the Covered Code or any portion thereof.
+
+2.5 Third Party Rights. You expressly acknowledge and agree that although the Original Licensor and each Contributor grants the licenses to their respective portions of the Covered Code set forth herein, no assurances are provided by the Original Licensor or any Contributor that the Covered Code does not infringe the patent or other intellectual property rights of any other entity. the Original Licensor and each Contributor disclaim any liability to You for claims brought by any other entity based on infringement of intellectual property rights or otherwise. As a condition to exercising the rights and licenses granted hereunder, You hereby assume sole responsibility to secure any other intellectual property rights needed, if any. For example, if a third party patent license is required to allow You to distribute the Covered Code, it is Your responsibility to acquire that license before distributing the Covered Code.
+
+3. Your Grants. In consideration of, and as a condition to, the licenses granted to You under this License, You hereby grant to any person or entity receiving or distributing Covered Code under this License a non-exclusive, royalty-free, perpetual, irrevocable license, under Your Applicable Patent Rights and other intellectual property rights (other than patent) owned or controlled by You, to use, reproduce, display, perform, modify, sublicense, distribute and Externally Deploy Your Modifications of the same scope and extent as the Original Licensor's licenses under Sections 2.1, 2.2, 2.3 and 2.4 above.
+
+4. Commercial Distribution. While this License is designed to facilitate the commercial use of the Covered Code, the Contributor who includes the Covered Code or any portion thereof in a commercial product offering should do so in a manner which does not create potential liability for other Contributors. Therefore, if a Contributor includes the Covered Code in a commercial product offering, such Contributor (“Commercial Contributor”) hereby agrees to defend and indemnify every other Contributor (“Indemnified Contributor”) against any losses, damages and costs (collectively “Losses”) arising from claims, lawsuits and other legal actions brought by a third party against the Indemnified Contributor to the extent caused by the acts or omissions of such Commercial Contributor in connection with its distribution of the Covered Code or portion thereof in a commercial product offering (including without limitation any failure to satisfy the requirements of this License). In order to qualify, an Indemnified Contributor must: a) promptly notify the commercial Contributor in writing of such claim, and b) allow the Commercial Contributor to control, and cooperate with the Commercial Contributor in, the defense and any related settlement negotiations, The Indemnified Contributor may participate in any such claim at its own expense.
+
+5. Limitations on Patent License. Except as expressly stated in Section 2, no other patent rights, express or implied, are granted by the Original Licensor herein. Modifications and/or Larger Works may require additional patent licenses from the Original Licensor which the Original Licensor may grant in its sole discretion.
+
+6. Additional Terms. You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations and/or other rights consistent with this License ("Additional Terms") to one or more recipients of Covered Code. However, You may do so only on Your own behalf and as Your sole responsibility, and not on behalf of the Original Licensor or any Contributor. You must obtain the recipient's agreement that any such Additional Terms are offered by You alone, and You hereby agree to indemnify, defend and hold the Original Licensor and every Contributor harmless for any liability incurred by or claims asserted against the Original Licensor or such Contributor by reason of any such Additional Terms.
+
+7. Versions of the License. The Original Licensor may publish revised and/or new versions of this License from time to time. Each version will be given a distinguishing version number. Once Original Code has been published under a particular version of this License, You may continue to use it under the terms of that version. You may also choose to use such Original Code under the terms of any subsequent version of this License published by the Original Licensor. No one other than the Original Licensor has the right to modify the terms applicable to Covered Code created under this License.
+
+8. NO WARRANTY OR SUPPORT. The Covered Code may contain in whole or in part pre-release, untested, or not fully tested works. The Covered Code may contain errors that could cause failures or loss of data, and may be incomplete or contain inaccuracies. You expressly acknowledge and agree that use of the Covered Code, or any portion thereof, is at Your sole and entire risk. THE COVERED CODE IS PROVIDED "AS IS" AND WITHOUT WARRANTY, UPGRADES OR SUPPORT OF ANY KIND AND THE ORIGINAL LICENSOR AND THE ORIGINAL LICENSOR'S LICENSOR(S) (COLLECTIVELY REFERRED TO AS "THE ORIGINAL LICENSOR" FOR THE PURPOSES OF SECTIONS 8 AND 9) AND ALL CONTRIBUTORS EXPRESSLY DISCLAIM ALL WARRANTIES AND/OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY, OF SATISFACTORY QUALITY, OF FITNESS FOR A PARTICULAR PURPOSE, OF ACCURACY, OF QUIET ENJOYMENT, AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. THE ORIGINAL LICENSOR AND EACH CONTRIBUTOR DOES NOT WARRANT AGAINST INTERFERENCE WITH YOUR ENJOYMENT OF THE COVERED CODE, THAT THE FUNCTIONS CONTAINED IN THE COVERED CODE WILL MEET YOUR REQUIREMENTS, THAT THE OPERATION OF THE COVERED CODE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE COVERED CODE WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY THE ORIGINAL LICENSOR, AN ORIGINAL LICENSOR AUTHORIZED REPRESENTATIVE OR ANY CONTRIBUTOR SHALL CREATE A WARRANTY. You acknowledge that the Covered Code is not intended for use in the operation of nuclear facilities, aircraft navigation, communication systems, or air traffic control machines in which case the failure of the Covered Code could lead to death, personal injury, or severe physical or environmental damage.
+
+9. LIMITATION OF LIABILITY. TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT SHALL THE ORIGINAL LICENSOR OR ANY CONTRIBUTOR BE LIABLE FOR ANY DIRECT, INCIDENTAL, SPECIAL, INDIRECT, CONSEQUENTIAL OR OTHER DAMAGES OF ANY KIND ARISING OUT OF OR RELATING TO THIS LICENSE OR YOUR USE OR INABILITY TO USE THE COVERED CODE, OR ANY PORTION THEREOF, WHETHER UNDER A THEORY OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCTS LIABILITY OR OTHERWISE, EVEN IF THE ORIGINAL LICENSOR OR SUCH CONTRIBUTOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OF LIABILITY OF INCIDENTAL OR CONSEQUENTIAL OR OTHER DAMAGES OF ANY KIND, SO THIS LIMITATION MAY NOT APPLY TO YOU. In no event shall the Original Licensor's or any Contributor's total liability to You for all damages (other than as may be required by applicable law) under this License exceed the amount of five hundred dollars ($500.00).
+
+10. Trademarks. This License does not grant any rights to use the trademarks or trade names "Sybase" or any other trademarks or trade names belonging to the Original Licensor (collectively "Original Licensor Marks") or to any trademark or trade name belonging to any Contributor(“Contributor Marks”). No Original Licensor Marks or Contributor Marks may be used to endorse or promote products derived from the Original Code or Covered Code other than with the prior written consent of the Original Licensor or the Contributor, as applicable.
+
+11. Ownership. Subject to the licenses granted under this License, each Contributor retains all rights, title and interest in and to any Modifications made by such Contributor. The Original Licensor retains all rights, title and interest in and to the Original Code and any Modifications made by or on behalf of the Original Licensor ("Original Licensor Modifications"), and such Original Licensor Modifications will not be automatically subject to this License. The Original Licensor may, at its sole discretion, choose to license such Original Licensor Modifications under this License, or on different terms from those contained in this License or may choose not to license them at all.
+
+12. Termination.
+
+12.1 Termination. This License and the rights granted hereunder will terminate:
+
+(a) automatically without notice if You fail to comply with any term(s) of this License and fail to cure such breach within 30 days of becoming aware of such breach;
+
+(b) immediately in the event of the circumstances described in Section 13.5(b); or
+
+(c) automatically without notice if You, at any time during the term of this License, commence an action for patent infringement (including as a cross claim or counterclaim) against the Original Licensor or any Contributor.
+
+12.2 Effect of Termination. Upon termination, You agree to immediately stop any further use, reproduction, modification, sublicensing and distribution of the Covered Code. All sublicenses to the Covered Code that have been properly granted prior to termination shall survive any termination of this License. Provisions which, by their nature, should remain in effect beyond the termination of this License shall survive, including but not limited to Sections 3, 5, 8, 9, 10, 11, 12.2 and 13. No party will be liable to any other for compensation, indemnity or damages of any sort solely as a result of terminating this License in accordance with its terms, and termination of this License will be without prejudice to any other right or remedy of any party.
+
+13. Miscellaneous.
+
+13.1 Government End Users. The Covered Code is a "commercial item" as defined in FAR 2.101. Government software and technical data rights in the Covered Code include only those rights customarily provided to the public as defined in this License. This customary commercial license in technical data and software is provided in accordance with FAR 12.211 (Technical Data) and 12.212 (Computer Software) and, for Department of Defense purchases, DFAR 252.227-7015 (Technical Data -- Commercial Items) and 227.7202-3 (Rights in Commercial Computer Software or Computer Software Documentation). Accordingly, all U.S. Government End Users acquire Covered Code with only those rights set forth herein.
+
+13.2 Relationship of Parties. This License will not be construed as creating an agency, partnership, joint venture or any other form of legal association between or among you, the Original Licensor or any Contributor, and You will not represent to the contrary, whether expressly, by implication, appearance or otherwise.
+
+13.3 Independent Development. Nothing in this License will impair the Original Licensor's or any Contributor’s right to acquire, license, develop, have others develop for it, market and/or distribute technology or products that perform the same or similar functions as, or otherwise compete with, Modifications, Larger Works, technology or products that You may develop, produce, market or distribute.
+
+13.4 Waiver; Construction. Failure by the Original Licensor or any Contributor to enforce any provision of this License will not be deemed a waiver of future enforcement of that or any other provision. Any law or regulation which provides that the language of a contract shall be construed against the drafter will not apply to this License.
+
+13.5 Severability. (a) If for any reason a court of competent jurisdiction finds any provision of this License, or portion thereof, to be unenforceable, that provision of the License will be enforced to the maximum extent permissible so as to effect the economic benefits and intent of the parties, and the remainder of this License will continue in full force and effect. (b) Notwithstanding the foregoing, if applicable law prohibits or restricts You from fully and/or specifically complying with Sections 2 and/or 3 or prevents the enforceability of either of those Sections, this License will immediately terminate and You must immediately discontinue any use of the Covered Code and destroy all copies of it that are in your possession or control.
+
+13.6 Dispute Resolution. Any litigation or other dispute resolution between You and the Original Licensor relating to this License shall take place in the Northern District of California, and You and the Original Licensor hereby consent to the personal jurisdiction of, and venue in, the state and federal courts within that District with respect to this License. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded.
+
+13.7 Entire Agreement; Governing Law. This License constitutes the entire agreement between the parties with respect to the subject matter hereof. This License shall be governed by the laws of the United States and the State of California, except that body of California law concerning conflicts of law.
+
+Where You are located in the province of Quebec, Canada, the following clause applies: The parties hereby confirm that they have requested that this License and all related documents be drafted in English. Les parties ont exigé que le présent contrat et tous les documents connexes soient rédigés en anglais.
+
+
+Events :
+----------------------------------
+
+     Sybase Open Watcom Public License - Version 2.0 -- Added to http://www.CopyLeftLicense.com : May 13, 2017
+
+About This Textfile :
+----------------------------------
+
+     Text file generated from : 
+http://www.CopyLeftLicense.com/

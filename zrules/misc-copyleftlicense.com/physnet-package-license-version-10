@@ -1,0 +1,138 @@
+Physnet Package License - Version 1.0
+--------------------------------------------------------------------
+
+People :
+----------------------------------
+
+Author : PhysNet
+
+Text :
+----------------------------------
+
+
+
+The Physnet Package License
+
+
+Preamble
+The intent of this document is to state the conditions under which a Physnet
+Package may be copied, such that the Copyright Holder maintains some semblance
+of artistic control over the development of the package, while giving the
+users of the package the right to use and distribute the Package in a more-or-less
+customary fashion plus the right to make reasonable modifications. This
+document is a slight modification of one issued by Larry Wall (http://language.perl.com/misc/Artistic.html).
+
+Definitions
+
+
+"Package" refers to any collection of files distributed by the Copyright
+Holder, in whatever form, and derivatives of that collection of files created
+through textual or format modification.
+
+
+"Standard Version" refers to such a Package if it has not been modified,
+or has been modified in accordance with the wishes of the Copyright Holder
+as specified below.
+
+
+"Copyright Holder" is whoever is named in the copyright or copyrights for
+the package.
+
+
+"You" is you, if you're thinking about copying or distributing a Physnet
+Package.
+
+
+"Reasonable copying fee" is whatever you can justify on the basis of media
+cost, duplication charges, time of people involved, and so on. You will
+not be required to justify it to the Copyright Holder, but only to the
+educational community at large as a market that must bear the fee.
+
+
+"Freely Available" means that no fee is charged for the item itself, though
+there may be fees involved in handling the item. It also means that recipients
+of the item may redistribute it under the same conditions under which they
+received it.
+
+License
+
+
+You may make and give away complete verbatim copies of the Standard Version
+of a Physnet Package without restriction.
+
+
+You may apply modifications as obtained from the Copyright Holder. A package
+modified in such a way shall still be considered to be the Standard Version.
+
+
+You may modify your copy of a Physnet Package in any way, provided that
+you name any non-Standard items so the names do not conflict with the names
+of Standard items and provide a separate page for each nonstandard item
+that clearly documents how it differs from any named Standard Version item
+having similar functionality, and provided that you do at least ONE of
+the following:
+
+
+place your modifications in the Public Domain or otherwise make them Freely
+Available, such as by posting said modifications to a relevant major user
+online group, or by placing the modifications on a relevant major archive
+site, or by persuading the Copyright Holder to include your modifications
+in the Standard Version of the Package.
+
+
+use the modified Package only within your own school or corporation.
+
+
+make other distribution arrangements with the Copyright Holder.
+
+You may distribute the items of a Physnet Package provided that you do
+at least ONE of the following:
+
+
+distribute a Standard Version of the items, together with instructions
+(in a cover page or equivalent) on where to get the Standard Version.
+
+
+give non-Standard items non-Standard names, and clearly document the differences
+in doc pages (or equivalent), together with instructions on where to get
+the Standard Version.
+
+
+make other distribution arrangements with the Copyright Holder.
+
+You may charge a reasonable copying fee for any distribution of a Physnet
+Package. You may charge any fee you choose for support of the package.
+You may not charge a fee for the package itself. However, you may distribute
+the package in aggregate with other (possibly commercial) material as part
+of a larger (possibly commercial) distribution provided that you do not
+advertise the Physnet Package as a product of your own. You may embed the
+package within an executable of yours (by linking), provided that the complete
+Standard Version of the package is so embedded.
+
+
+You may not distribute a printed (on paper) collection of Physnet Packages
+that can be used as a textbook without specific prior written permission.
+This condition may be relaxed at some point in the future.
+
+
+The name of the Copyright Holder may not be used to imply endorsement or
+to promote products derived from a Physnet Package without specific prior
+written permission.
+
+
+A PHYSNET PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED
+WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTIBILITY
+AND FITNESS FOR A PARTICULAR PURPOSE.
+End
+
+
+Events :
+----------------------------------
+
+     Physnet Package License - Version 1.0 -- Added to http://www.CopyLeftLicense.com : May 12, 2017
+
+About This Textfile :
+----------------------------------
+
+     Text file generated from : 
+http://www.CopyLeftLicense.com/

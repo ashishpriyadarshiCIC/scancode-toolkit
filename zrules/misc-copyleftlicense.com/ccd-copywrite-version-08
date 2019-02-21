@@ -1,0 +1,283 @@
+CCD CopyWrite - Version 0.8
+--------------------------------------------------------------------
+
+People :
+----------------------------------
+
+Author : Apotheon
+
+Text :
+----------------------------------
+
+
+LICENSE TERMS SUMMARY:
+
+The current CCD CopyWrite license text
+is written with the intent of being understandable to the layman while
+still providing adequate legal protection and clarity for the terms of
+the license.  The latter goal can interfere with the former,
+however, and as such a shorter summary of the intent of the license
+terms is provided here:IN BRIEF: This license is meant to mimic the "public domain",
+a concept particular to certain countries, which means that no
+copyright or patent claims are enforced.  This is modified by two
+points:Unlike the public domain, nothing licensed CCD CopyWrite can be subsumed under terms of a contrary copyright license.Legally enforced "reminders" to avoid plagiarism or misattribution apply to works licensed under terms of CCD CopyWrite.SECTION BY SECTION:Identification: This section simply explains how the license should be identified.Applicability:
+This section addresses the legal applicability of the license.  It
+basically means "apply this license as faithfully as possible in your
+legal jurisdiction, and understand that you must identify a work as
+being subject to the terms of this license before its terms apply to
+the work".Definitions: This section lays out
+definitions of terms as they are used in the license text, so that
+legal confusion over how terms are used can be minimized.Copyright License:
+This section explains in brief the relationship of this license to
+copyright law.  It basically says you can do whatever you want
+with something distributed under terms of this license except change
+its license terms.Patent License: This
+section explains in brief the relationship of this license to patent
+law.  Like the Copyright License section above it, this section
+basically says you can do whatever you want with something distributed
+under terms of this license except change its license terms, even as
+applies to patent law — as long as the people who employed patented
+concepts in contributions to the work did so legally.Distribution: This section says you must provide a copy of this license when redistributing a work under terms of this licensenot
+omit copyright, patent, trademark, or attribution notices from a
+derivative work unless those notices do not apply to the derived workpreserve
+any attribution from a NOTICE file distributed with the work that still
+pertains to a redistributed copy or derivative work, so long as it is
+still relevant to the work, and you can add to the NOTICE file to
+reflect addtional attribution when distributing a derived workTrademarks: This section indicates that applicability of trademark law is not modified by this license.Revocation:
+This section warns that for anyone who violates the terms of this
+license, the permissions granted by it shall be considered to be
+revoked.Disclaimer: This section makes it clear that nothing in the license should be interpreted as a grant of warranty.Limitation of Liability:
+This section further makes it clear that in distributing the work,
+nobody should be held responsible for how it is used or misused, except
+where malicious intent or depraved indifference is involved.  In
+other words, if you don't mean for anyone or anything to get hurt, you
+shouldn't be blamed if someone or something is hurt.Warranty Acceptance:
+This section makes it clear that the Disclaimer and Limitation of
+Liability sections should not be interpreted to mean that nobody can
+offer warranties on the software, if they want to do so, but that they
+alone are then responsible for the warranty terms.Licensing: This section states the license version number and discusses the relationship between the license and the work.
+The above summary will not exactly correspond with older, archive versions of the CCD CopyWrite license.
+
+LICENSE TEXT:
+
+
+  
+  CCD CopyWrite Version 0.8
+http://ccd.apotheon.org
+IDENTIFICATION:
+    This document comprises an explanation of the
+legal terms and conditions for reproduction, distribution, and use of
+any work to which it is applied as a distribution license.  It
+shall be known as any of the following terms, though the preferred
+primary notice of license status shall be option number 2, preferably
+with date of the work's copyright appended.
+        1.  Credit as Credit's Due CopyWrite
+        2.  CCD CopyWrite
+        3.  CopyWrite
+    The terms "Credit as Credit's Due CopyWrite",
+"CCD CopyWrite", and "CopyWrite", as applied to this License for
+distribution, are protected by any applicable trademark and copyright
+restrictions.  This License should not be construed to apply to
+its own content except as explicitly defined within the text of this
+License.
+APPLICABILITY:
+    This License applies to any work which contains
+a notice by the legal copyright holder or as allowed under the terms of
+LICENSING below indicating that it may be distributed under the terms
+of the Credit as Credit's Due CopyWrite license.  The term Work as
+used in this document refers to any work (original or derivative) to
+which this License applies.  If any provision of this License is
+invalid or unenforceable under applicable law, it shall not affect the
+validity or enforceability of the remainder of the terms of this
+License.
+DEFINITIONS:
+    "Contribution" shall mean any work of
+authorship, including the original version of the Work and any
+modifications or additions to that Work or Derivative Works thereof,
+that is intentionally submitted to the Licensor for inclusion in the
+Work by the copyright owner or by any individual or entity authorized
+to submit on behalf of the copyright owner.  For the purposes of
+this definition, "submitted" means any form of electronic, verbal, or
+written communication sent to the Licensor or its representatives,
+including but not limited to communication on or by electronic mailing
+lists, issue tracking systems, postal mail, private emails, and source
+code control systems that are managed by, or on behalf of, the Licensor
+for the purpose of discussing and improving the Work, but excluding
+communication that is conspicuously marked or otherwise designated in
+writing by the copyright owner as "Not a Contribution."
+    "Contributor" shall mean Licensor and any
+individual or entity on behalf of whom a Contribution has been received
+by Licensor and subsequently incorporated within the Work.
+    
+    "Derivative Work" shall mean any work, whether
+in Source or Object form, that is based on or derived from the Work and
+for which annotations, editorial revisions, elaborations, or other
+modifications represent, as a whole, an original work of
+authorship.  For the purposes of this License, Derivative Works
+shall not include works that remain separable from, or merely link or
+bind by name to the interfaces of, the Work and Derivative Works
+thereof.
+    "License" shall mean the terms and conditions
+for reproduction, distribution, and use as defined by the content of
+this License document.
+    "Licensor" shall mean the copyright holder or
+entity authorized by the copyright holder, directly or by terms of this
+License, that is granting the License.
+    "Object" form shall mean any form of the Work
+distributed under terms of this License resulting from mechanical
+translation or transformation of a Source form, including but not
+limited to compiled object code, generated document, binary data or
+content file, compressed file, and conversion to any other media types.
+    "Source" form shall mean the preferred form for
+making modifications, including but not limited to configuration files,
+documentation source, markup format, musical notation, plain text
+format, and software source code.
+    "Work" shall mean the work of authorship,
+whether in Source or Object form, made available subject to the terms
+of this License.
+    "You" shall mean any individual or entity exercising permissions granted by this License.
+COPYRIGHT LICENSE:
+    Subject to the terms and conditions of this
+License, each Contributor hereby grants to You a perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable copyright license
+to reproduce, prepare Derivative Works of, publicly display, publicly
+perform, sublicense, and distribute the Work and any Derivative Works
+in Source or Object form.
+PATENT LICENSE:
+    Subject to the terms and conditions of this
+License, each Contributor hereby grants to You a perpetual, worldwide,
+non-exclusive, no-charge, royalty-free, irrevocable patent license to
+make, have made, use, offer to sell, sell, import, and otherwise
+transfer the Work, where such license applies only to any patent claims
+licensable by such Contributor that are either explicitly identified as
+licensed, or infringed by their Contribution alone or by combination of
+their Contribution with the Work to which such Contribution was
+submitted.
+    
+DISTRIBUTION:
+    You may reproduce and distribute copies of the
+Work or Derivative Works thereof in any medium, with or without
+modifications, and in Source or Object form, provided that You meet the
+following conditions:
+        A. You must provide to
+any other recipients of the Work or Derivative Works a copy of this
+License.
+        B. You must retain, in
+the Source form of any Derivative Works that You distribute, all
+copyright, patent, trademark, and attribution notices from the Source
+form of the Work, excluding those notices that do not pertain to any
+part of the Derivative Works.
+        C. If the Work includes
+a "NOTICE" text file as part of its distribution, then any Derivative
+Works that You distribute must include a readable copy of the
+attribution notices contained within such NOTICE file, excluding those
+notices that do not pertain to any part of the Derivative Works, in at
+least one of the following places: within a NOTICE text file
+distributed as part of the Derivative Works; within the Source form or
+documentation, if provided along with the Derivative Works; or, within
+a display generated by the Derivative Works, if and wherever such
+third-party notices normally appear.  The contents of the NOTICE
+file are for informational purposes only and do not modify the
+License.  You may add attribution notices within Derivative Works
+that You distribute, alongside or as an addendum to the NOTICE text
+from the Work, provided that such additional attribution notices cannot
+be construed as modifying the License and do not contradict applicable
+surviving attribution notices from earlier versions of the Work or
+Works from which Derivative Works are derived.
+TRADEMARKS:
+    This License does not grant permission to use
+the trade names, trademarks, service marks, or product names of the
+Licensor, except as required for reasonable and customary use in
+describing the origin of the Work and reproducing the content of the
+NOTICE file. 
+REVOCATION:
+    Any violation of the terms of this License
+shall constitute a revocation of the terms of this License for the
+violator and restriction of any use of the content of the Work, in
+total or in part, by the violator, in perpetuity.  All right to
+use or distribution of the licensed Work, or profits garnered from use
+or distribution, shall be forfeit.
+DISCLAIMER:
+    The terms of this License shall not be
+construed to imply warranty of any kind, either express or implied,
+including, without limitation, any warranties or conditions of TITLE,
+NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE.
+You are solely responsible for determining the appropriateness of using
+or redistributing the Work and assume any risks associated with Your
+exercise of permissions under this License.
+LIMITATION OF LIABILITY:
+    In no event and under no legal theory, whether
+in tort (including negligence), contract, or otherwise, unless required
+by applicable law (such as deliberate and grossly negligent acts) or
+agreed to in writing according to the terms of WARRANTY ACCEPTANCE
+below, shall any Contributor be liable to You for damages, including
+any direct, indirect, special, incidental, or consequential damages of
+any character arising as a result of this License or out of the use or
+inability to use the Work (including but not limited to damages for
+loss of goodwill, work stoppage, computer failure or malfunction, or
+any and all other commercial damages or losses), even if such
+Contributor has been advised of the possibility of such damages.
+WARRANTY ACCEPTANCE:
+    While redistributing the Work or Derivative
+Works thereof, You may choose to offer, and charge a fee for,
+acceptance of support, warranty, indemnity, or other liability
+obligations and/or rights consistent with this License. However, in
+accepting such obligations, You may act only on Your own behalf and on
+Your sole responsibility, not on behalf of any other Contributor, and
+only if You agree to indemnify, defend, and hold each Contributor
+harmless for any liability incurred by, or claims asserted against,
+such Contributor by reason of your accepting any such warranty or
+additional liability.
+    
+LICENSING:
+    This License constitutes Version 0.8 of the
+Credit as Credit's Due CopyWrite License (CCD CopyWrite, or
+CopyWrite).  It may at the discretion of any distributor or
+redistributor (You) be replaced with later Versions of the CCD
+CopyWrite License for inclusion of CopyWrite notice with distributions
+of the Work, whether as the original Work or a Derivative Work. 
+Where individuated reference to any given Version of the License is not
+specified, it is to be assumed that the most recent Version of the
+License is applicable.  The text of this License may be reproduced
+and redistributed in unmodified form, in its entirety, at will. 
+Excerpts may be reproduced and redistributed as well, subject where
+applicable to terms presented under IDENTIFICATION above.  You may
+not redistribute any Work subject to the terms of this License under
+any other license except as explicitly set forth in this paragraph.
+
+
+RELEASE VERSION ARCHIVE:
+
+CCD CopyWrite v0.2:This
+was the first release version of CCD CopyWrite.  Its form was
+based on the Creative Commons Attribution License, with very brief
+verbal endorsement by telephone from a representative of Creative
+Commons.  Unfortunately, I don't recall who it was, and I'm sure
+they didn't even bother to write anything down on a sticky note in
+relation to my call.  Regardless, the CC Attribution License was
+the closest in form of any existing license to achieving what I wanted,
+legally speaking.  Very (relatively) few alterations needed to be
+made to get the first release version off the ground, allowing me to
+start stamping emails, administration scripts, and online essays with a
+URL pointing at the CCD CopyWrite license.CCD CopyWrite v0.8:Development
+of version 0.8 actually began as development of version 0.6, but 0.6
+never materialized.  The point, of course, was to alter the format
+of the CCD CopyWrite license to simplify the language of the license
+significantly from its 0.2 release version.  Version 0.8 was put
+together by gutting the development version 0.5 and adding clear
+English language, inspired to some extent by other licenses like the
+BSD licenses and Apache License v2.0, some of the legal language of
+which might be clearly recognizable as inspiration for version 0.8 of
+CCD CopyWrite.
+
+
+Events :
+----------------------------------
+
+     CCD CopyWrite - Version 0.8 -- Added to http://www.CopyLeftLicense.com : May 06, 2017
+
+About This Textfile :
+----------------------------------
+
+     Text file generated from : 
+http://www.CopyLeftLicense.com/

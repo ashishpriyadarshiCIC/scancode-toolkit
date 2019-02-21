@@ -1,0 +1,1874 @@
+CMS 14.0 Notices
+
+
+CMS Notice
+
+Copyright (c) 2000-2015 Calix Networks, Inc. All rights reserved.
+Portions Copyright (c) 2001-2015 Object Savvy, Inc.
+
+This product contains software developed by third parties, including open source software licensed under a variety of different licensing schemes.
+
+The uses of included third party software in this product are governed under the terms of their respective licenses. Licensing information for each software or module can be found in the LICENSE file located in this products installation folder.
+
+Attribution and copyright notices for included third party software can be found in the NOTICE file located in the same folder when readily made available by the developer or other copyright owners.You are encouraged to check with the developer / copyright owner regarding any questions you may have with regard to the copyright or any other right in the software.
+
+This product includes software developed by the OpenSymphony Group (http://www.opensymphony.com/).
+
+This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+
+This product includes cryptographic software written by Eric Young (eay@cryptsoft.com) 
+This product includes software written by Tim Hudson (tjh@cryptsoft.com)
+
+This product includes software from the Display Tag Library. A standard distribution of this software can be obtained from http://displaytag.sourceforge.net/, or by sending a written request to Calix.
+
+
+
+Third Party Notices
+
+ANTLR, Version 2.7.5
+
+ANTLR can be obtained from http://www.antlr.org/.
+
+From:  antlr-2.7.5\LICENSE.txt
+-------------------------------------------------------------------------------
+* ANTLR 1989-2004 Developed by Terence Parr
+* Partially supported by University of San Francisco & jGuru.com
+-------------------------------------------------------------------------------
+
+
+
+Apache Ant, Version 1.5.3 and 1.6.2
+
+Apache Ant can be obtained from http://ant.apache.org/.
+
+From:  apache-ant-1.5.3-1\src\main\org\apache\tools\ant\Main.java
+-------------------------------------------------------------------------------
+/*
+ * The Apache Software License, Version 1.1
+ *
+ * Copyright (c) 2000-2003 The Apache Software Foundation.  All rights
+ * reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ *
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in
+ *    the documentation and/or other materials provided with the
+ *    distribution.
+ *
+ * 3. The end-user documentation included with the redistribution, if
+ *    any, must include the following acknowlegement:
+ *       "This product includes software developed by the
+ *        Apache Software Foundation (http://www.apache.org/)."
+ *    Alternately, this acknowlegement may appear in the software itself,
+ *    if and wherever such third-party acknowlegements normally appear.
+ *
+ * 4. The names "Ant" and "Apache Software
+ *    Foundation" must not be used to endorse or promote products derived
+ *    from this software without prior written permission. For written
+ *    permission, please contact apache@apache.org.
+ *
+ * 5. Products derived from this software may not be called "Apache"
+ *    nor may "Apache" appear in their names without prior written
+ *    permission of the Apache Group.
+ *
+ * THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+ * WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ * OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+ * USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+ * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ * ====================================================================
+ *
+ * This software consists of voluntary contributions made by many
+ * individuals on behalf of the Apache Software Foundation.  For more
+ * information on the Apache Software Foundation, please see
+ * <http://www.apache.org/>.
+ */
+-------------------------------------------------------------------------------
+
+From:  apache-ant-1.6.2\src\main\org\apache\tools\ant\java
+-------------------------------------------------------------------------------
+/*
+ * Copyright  2000-2004 The Apache Software Foundation
+ *
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+ *
+ */
+-------------------------------------------------------------------------------
+
+From:  apache-ant-1.6.2\NOTICE
+-------------------------------------------------------------------------------
+   =========================================================================
+   ==  NOTICE file corresponding to the section 4 d of                    ==
+   ==  the Apache License, Version 2.0,                                   ==
+   ==  in this case for the Apache Ant distribution.                      ==
+   =========================================================================
+
+   This product includes software developed by
+   The Apache Software Foundation (http://www.apache.org/).
+
+   This product includes also software developed by :
+     - the W3C consortium (http://www.w3c.org) ,
+     - the SAX project (http://www.saxproject.org)
+
+   Please read the different LICENSE files present in the root directory of
+   this distribution.
+
+   The names "Ant" and  "Apache Software Foundation"  must not be used to
+   endorse  or promote  products derived  from this  software without prior
+   written permission. For written permission, please contact
+   apache@apache.org.
+-------------------------------------------------------------------------------
+
+
+
+Apache Axis, Version 1.2
+
+Apache Axis can be obtained from http://www.apache.org/dyn/closer.cgi/ws/axis/1_2
+
+From:  commons-logging-1.0.4.jar \ NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons BeanUtils version 1.6
+
+Apache Commons BeanUtils can be obtained from http://commons.apache.org/beanutils/.
+
+From:  commons-beanutils\LICENSE.txt
+-------------------------------------------------------------------------------
+The Apache Software License, Version 1.1
+Copyright (c) 1999-2003 The Apache Software Foundation.  All rights
+reserved.
+This software consists of voluntary contributions made by many
+individuals on behalf of the Apache Software Foundation.  For more
+information on the Apache Software Foundation, please see
+<http://www.apache.org/>.
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons BeanUtils
+
+Apache Commons BeanUtils can be obtained from http://commons.apache.org/beanutils/.
+
+From:  commons-beanutils-1.7.0\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons CLI, Version 1.0
+
+Apache Commons CLI can be obtained from http://commons.apache.org/cli/.
+
+From:  commons-cli-1.1\NOTICE.txt
+-------------------------------------------------------------------------------
+Apache Commons CLI
+Copyright 2001-2007 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons Codec, Version 1.3
+
+Apache Commons Codec can be obtained from http://commons.apache.org/codec/.
+
+From:  commons-codec-1.3\src\java\org\apache\commons\codec\Encoder.java
+-------------------------------------------------------------------------------
+/*
+ * Copyright 2001-2004 The Apache Software Foundation.
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */ -------------------------------------------------------------------------------
+
+
+
+Apache Commons Collections, Version 2.1
+
+Apache Commons Collections can be obtained from http://commons.apache.org/collections/.
+
+From:  commons-collections-2.1\LICENSE.txt
+-------------------------------------------------------------------------------
+The Apache Software License, Version 1.1
+Copyright (c) 1999-2001 The Apache Software Foundation.  All rights
+reserved.
+This software consists of voluntary contributions made by many
+individuals on behalf of the Apache Software Foundation.  For more
+information on the Apache Software Foundation, please see
+<http://www.apache.org/>.
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons Collections, Version 2.1.1
+
+Apache Commons Collections can be obtained from http://commons.apache.org/collections/.
+
+From:  commons-collections\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons Collections, Version 3.0
+
+Apache Commons Collections can be obtained from http://commons.apache.org/collections/.
+
+From:  commons-collections-3.2\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons DBCP, Version 1.2.1
+
+Apache Commons DBCP can be obtained from http://commons.apache.org/dbcp/.
+
+From:  commons-dbcp-1.2.1\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/). 
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons Digester, Version 1.6
+
+Apache Commons DBCP can be obtained from http://commons.apache.org/digester/.
+
+From:  commons-digester-1.6\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons FileUpload, Version 1.1.1
+
+Apache Commons FileUpload can be obtained from http://commons.apache.org/fileupload/.
+
+From:  commons-fileupload-1.1.1\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons HttpClient, Version 3.0 RC3
+
+Apache Commons HttpClient can be obtained from http://jakarta.apache.org/httpcomponents/httpcomponents-client/.
+
+From:  commons-httpclient-3.1\NOTICE.txt
+-------------------------------------------------------------------------------
+Apache Jakarta HttpClient
+Copyright 1999-2007 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/). 
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons IO, Version 1.2
+
+Apache Commons IO can be obtained from http://commons.apache.org/io/.
+
+From:  commons-io-1.2\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons Lang, Version 2.0
+
+Apache Commons Lang can be obtained from http://commons.apache.org/lang/.
+
+From:  commons-lang-2.3\NOTICE.txt
+-------------------------------------------------------------------------------
+Apache Jakarta Commons Lang
+Copyright 2001-2007 The Apache Software Foundation
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons Logging, Version 1.0.3
+
+Apache Commons Logging can be obtained from http://commons.apache.org/logging/.
+
+From:  commons-logging-1.0.3\LICENSE.txt
+-------------------------------------------------------------------------------
+The Apache Software License, Version 1.1
+Copyright (c) 1999-2003 The Apache Software Foundation.  All rights
+reserved.
+This software consists of voluntary contributions made by many
+individuals on behalf of the Apache Software Foundation.  For more
+information on the Apache Software Foundation, please see
+<http://www.apache.org/>.
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons Logging, Version 1.0.4
+
+Apache Commons Logging can be obtained from http://commons.apache.org/logging/.
+
+From:  commons-logging-1.0.4\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons Logging, Version 1.1.1
+
+Apache Commons Logging can be obtained from http://commons.apache.org/logging/.
+
+From:  commons-logging-1.1.1\NOTICE.txt
+-------------------------------------------------------------------------------
+Commons Logging
+Copyright 2001-2007 The Apache Software Foundation
+This product includes/uses software(s) developed by 'an unknown organization'
+Unnamed - avalon-framework:avalon-framework:jar:4.1.3
+Unnamed - log4j:log4j:jar:1.2.12
+Unnamed - logkit:logkit:jar:1.0.1
+Commons Logging
+Copyright 2001-2007 The Apache Software Foundation
+This product includes/uses software(s) developed by 'an unknown organization'
+Unnamed - avalon-framework:avalon-framework:jar:4.1.3
+Unnamed - log4j:log4j:jar:1.2.12
+Unnamed - logkit:logkit:jar:1.0.1
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons Messenger
+
+Apache Commons Messenger can be obtained from http://commons.apache.org/sandbox/messenger/.
+
+
+
+Apache Commons Net, Version 2.0
+
+Apache Commons Net can be obtained from http://commons.apache.org/net/.
+
+From:  commons-net-2.0\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Commons Pool, Version 1.2
+
+Apache Commons Pool can be obtained from http://commons.apache.org/pool/.
+
+From:  commons-pool-1.2\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache CXF, Version2.4.10
+
+Apache CXF can be obtained from http://commons.apache.org/CXF/
+
+From:  cxf-2.4.10\NOTICE.txt
+-------------------------------------------------------------------------------
+Apache CXF
+Copyright 2006-2012 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+Java classes (source and binary) under org.apache.cxf.jaxws.javaee
+are generated from schema available here:
+(http://java.sun.com/xml/ns/javaee/javaee_5.xsd)
+Portions of the file cxf-utils.js derives from code marked:
+This code was written by Tyler Akins and has been placed in the
+public domain.  It would be nice if you left this header intact.
+Base64 code from Tyler Akins -- http://rumkin.com
+The product contains code (StaxBuilder.java) that is
+Copyright (C) 2000-2004 Jason Hunter & Brett McLaughlin.
+All rights reserved.
+See the NOTICE.jdom file for additional information
+This Product also includes software developed by David Heinemeier Hansson.
+(http://dev.rubyonrails.org/browser/trunk/activesupport/lib/active_support/inflections.rb)
+This product includes software Copyright University of Southampton IT Innovation Centre, 2009
+(http://www.it-innovation.soton.ac.uk).
+-------------------------------------------------------------------------------
+
+
+Apache Commons Validator, Version 1.1.4
+
+Apache Commons Validator can be obtained from http://commons.apache.org/validator/.
+
+From:  commons-validator-1.1.4\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Derby, Version 10.1.1.0
+
+Apache Derby can be obtained from http://db.apache.org/derby/.
+
+From:  db-derby-10.1.1.0-lib\NOTICE.txt
+-------------------------------------------------------------------------------
+=========================================================================
+==  NOTICE file corresponding to section 4(d) of the Apache License,   ==
+==  Version 2.0, in this case for the Apache Derby distribution.       ==
+=========================================================================
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+
+Portions of Derby were orginally developed by
+International Business Machines Corporation and are
+licensed to the Apache Software Foundation under the
+"Software Grant and Corporate Contribution License Agreement",
+informally known as the "Derby CLA".
+
+The portion of the functionTests under 'nist' was originally 
+developed by the National Institute of Standards and Technology (NIST), 
+an agency of the United States Department of Commerce, and adapted by
+International Business Machines Corporation in accordance with the NIST
+Software Acknowledgment and Redistribution document at
+http://www.itl.nist.gov/div897/ctg/sql_form.htm
+-------------------------------------------------------------------------------
+
+
+
+Apache Jakarta JCS, Version 1.0-dev
+
+Apache Jakarta JCS can be obtained from http://jakarta.apache.org/jcs/.
+
+From:  jcs-1.3\NOTICE
+-------------------------------------------------------------------------------
+Apache Jakarta JCS
+Copyright 2001-2007 The Apache Software Foundation.
+Portions Copyright (c) Xerox Corporation 1998-2001.
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/). 
+See the LICENSE.txt file.
+
+This product includes software developed at Xerox Corporation.
+See the LICENSE.xerox file.
+-------------------------------------------------------------------------------
+
+
+
+Apache Jakarta-ORO, Version 2.0.8
+
+Apache Jakarta-ORO can be obtained from http://jakarta.apache.org/oro/.
+
+From:  jakarta-oro-2.0.8\ LICENSE
+-------------------------------------------------------------------------------
+ * ====================================================================
+ * The Apache Software License, Version 1.1
+ *
+ * Copyright (c) 2000 The Apache Software Foundation.  All rights
+ * reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer.
+ *
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in
+ *    the documentation and/or other materials provided with the
+ *    distribution.
+ *
+ * 3. The end-user documentation included with the redistribution,
+ *    if any, must include the following acknowledgment:
+ *       "This product includes software developed by the
+ *        Apache Software Foundation (http://www.apache.org/)."
+ *    Alternately, this acknowledgment may appear in the software itself,
+ *    if and wherever such third-party acknowledgments normally appear.
+ *
+ * 4. The names "Apache" and "Apache Software Foundation", "Jakarta-Oro" 
+ *    must not be used to endorse or promote products derived from this
+ *    software without prior written permission. For written
+ *    permission, please contact apache@apache.org.
+ *
+ * 5. Products derived from this software may not be called "Apache" 
+ *    or "Jakarta-Oro", nor may "Apache" or "Jakarta-Oro" appear in their 
+ *    name, without prior written permission of the Apache Software Foundation.
+ *
+ * THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+ * WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ * OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+ * USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+ * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ * ====================================================================
+ *
+ * This software consists of voluntary contributions made by many
+ * individuals on behalf of the Apache Software Foundation.  For more
+ * information on the Apache Software Foundation, please see
+ * <http://www.apache.org/>.
+-------------------------------------------------------------------------------
+
+
+
+Apache Jakarta Taglibs, Version 1.1.2
+
+Apache Jakarta Taglibs can be obtained from http://jakarta.apache.org/taglibs/.
+
+From:  jakarta-taglibs-standard-1.1.2\NOTICE
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+
+Apache Log4J, Version 1.2.8
+
+Apache log4j can be obtained from http://logging.apache.org/log4j/.
+
+From:  apache-log4j-1.2.15\NOTICE
+-------------------------------------------------------------------------------
+Apache log4j
+Copyright 2007 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+Apache Log4J, Version 1.2.14
+
+Apache log4j can be obtained from http://logging.apache.org/log4j/.
+
+From:  log4j-1.2.14\NOTICE.txt
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Apache Neethi, Version 3.0.2
+
+Apache Neethi can be obtained from http://commons.apache.org/Neethi/
+
+From:  Neethi-3.0.2\NOTICE.txt
+-------------------------------------------------------------------------------
+Apache Neethi
+Copyright 2004-2012 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+This product is tested with testcases developed at W3C under the license:
+http://www.w3.org/Consortium/Legal/2002/copyright-documents-20021231
+The source distribution of this product includes those testcases. 
+-------------------------------------------------------------------------------
+
+
+
+Apache Struts, Version 1.1
+
+Apache Struts can be obtained from http://struts.apache.org/.
+
+From:  jakarta-struts-1.1\LICENSE
+-------------------------------------------------------------------------------
+ * ====================================================================
+ * 
+ * The Apache Software License, Version 1.1
+ *
+ * Copyright (c) 1999-2001 The Apache Software Foundation.  All rights 
+ * reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer. 
+ *
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in
+ *    the documentation and/or other materials provided with the
+ *    distribution.
+ *
+ * 3. The end-user documentation included with the redistribution, if
+ *    any, must include the following acknowlegement:  
+ *       "This product includes software developed by the 
+ *        Apache Software Foundation (http://www.apache.org/)."
+ *    Alternately, this acknowlegement may appear in the software itself,
+ *    if and wherever such third-party acknowlegements normally appear.
+ *
+ * 4. The names "The Jakarta Project", "Struts", and "Apache Software
+ *    Foundation" must not be used to endorse or promote products derived
+ *    from this software without prior written permission. For written 
+ *    permission, please contact apache@apache.org.
+ *
+ * 5. Products derived from this software may not be called "Apache"
+ *    nor may "Apache" appear in their names without prior written
+ *    permission of the Apache Group.
+ *
+ * THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESSED OR IMPLIED
+ * WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ * OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED.  IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR
+ * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF
+ * USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ * ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+ * OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT
+ * OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ * ====================================================================
+ *
+ * This software consists of voluntary contributions made by many
+ * individuals on behalf of the Apache Software Foundation.  For more
+ * information on the Apache Software Foundation, please see
+ * <http://www.apache.org/>.
+ *
+-------------------------------------------------------------------------------
+
+
+
+Apache Tomcat, Version 5.0.12
+
+Apache Tomcat can be obtained from http://tomcat.apache.org/.
+
+From:  jakarta-tomcat-5.0.28\NOTICE
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+
+Java Management Extensions (JMX) support is provided by
+the MX4J package, which is open source software.  The
+original software and related information is available
+at http://mx4j.sourceforge.net.
+
+The Windows Installer is built with the Nullsoft
+Scriptable Install Sysem (NSIS), which is
+open source software.  The original software and
+related information is available at
+http://nsis.sourceforge.net.
+-------------------------------------------------------------------------------
+
+
+
+Apache Xalan-Java, Version 2.4.0
+
+Apache Xalan-Java can be obtained from http://xml.apache.org/xalan-j/.
+
+From:  xalan-j_2_7_0\licenses\xalan.NOTICE.txt
+-------------------------------------------------------------------------------
+======================================================================================
+==  NOTICE file corresponding to the section 4d of the Apache License, Version 2.0, ==
+==  in this case for the Apache Xalan distribution.                                 ==
+======================================================================================
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+
+Portions of this software was originally based on the following:
+
+  - software copyright (c) 1999-2002, Lotus Development Corporation., http://www.lotus.com.
+  - software copyright (c) 2001-2002, Sun Microsystems., http://www.sun.com.
+  - software copyright (c) 2003, IBM Corporation., http://www.ibm.com.
+  - voluntary contributions made by Ovidiu Predescu (ovidiu@cup.hp.com) on behalf of the 
+    Apache Software Foundation and was originally developed at Hewlett Packard Company. 
+
+-------------------------------------------------------------------------------
+
+
+
+Apache Xerces-Java
+
+Apache Xerces-Java can be obtained from http://xerces.apache.org/.
+
+From:  xerces-2_9_1\NOTICE
+-------------------------------------------------------------------------------
+=========================================================================
+==  NOTICE file corresponding to section 4(d) of the Apache License,   ==
+==  Version 2.0, in this case for the Apache Xerces Java distribution. ==
+=========================================================================
+
+Apache Xerces Java
+Copyright 1999-2007 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+Portions of this software were originally based on the following:
+  - software copyright (c) 1999, IBM Corporation., http://www.ibm.com.
+  - software copyright (c) 1999, Sun Microsystems., http://www.sun.com.
+  - voluntary contributions made by Paul Eng on behalf of the 
+    Apache Software Foundation that were originally developed at iClick, Inc.,
+    software copyright (c) 1999.
+-------------------------------------------------------------------------------
+
+
+
+Apache XMLBeans, Version 2.0.0
+
+Apache XMLBeans can be obtained from http://xmlbeans.apache.org/.
+
+From:  xmlbeans-2.0.0\ NOTICE.txt
+-------------------------------------------------------------------------------
+=========================================================================
+==  NOTICE file corresponding to section 4(d) of the Apache License,   ==
+==  Version 2.0, in this case for the Apache XmlBeans distribution.    ==
+=========================================================================
+
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+
+Portions of this software were originally based on the following:
+  - software copyright (c) 2000-2003, BEA Systems, <http://www.bea.com/>.
+
+Aside from contributions to the Apache XMLBeans project, this
+software also includes:
+
+ - one or more source files from the Apache Xerces-J and Apache Axis
+   products, Copyright (c) 1999-2003 Apache Software Foundation
+
+ - W3C XML Schema documents Copyright 2001-2003 (c) World Wide Web
+   Consortium (Massachusetts Institute of Technology, European Research
+   Consortium for Informatics and Mathematics, Keio University)
+
+ - resolver.jar from Apache Xml Commons project,
+   Copyright (c) 2001-2003 Apache Software Foundation
+
+ - Piccolo XML Parser for Java from http://piccolo.sourceforge.net/,
+   Copyright 2002 Yuval Oren under the terms of the Apache Software License 2.0
+-------------------------------------------------------------------------------
+
+
+
+Apache Xmlschema Core, Version 2.0.3
+
+Apache Xmlschema Core can be obtained from http://commons.apache.org/Xmlschema Core/.
+
+From:  xmlschema-core-2.0.3\NOTICE.txt
+-------------------------------------------------------------------------------
+Apache WebServices - XmlSchema
+Copyright 2004-2012 The Apache Software Foundation
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+Portions Copyright 2006 International Business Machines Corp.
+Portions Copyright (C) World Wide Web Consortium 2006, 2007 and licensed under the
+three-part BSD license.
+-------------------------------------------------------------------------------
+
+
+
+Apache XML Commons Resolver, Version 1.1
+
+Apache XML Commons Resolver can be obtained from http://xml.apache.org/.
+
+From:  xml-commons-resolver-1.2\NOTICE-resolver.txt
+-------------------------------------------------------------------------------
+Apache XML Commons Resolver
+Copyright 2006 The Apache Software Foundation.
+
+This product includes software developed at
+The Apache Software Foundation http://www.apache.org/
+
+Portions of this code are derived from classes placed in the
+public domain by Arbortext on 10 Apr 2000. See:
+http://www.arbortext.com/customer_support/updates_and_technical_notes/catalogs/docs/README.htm-------------------------------------------------------------------------------
+
+Apache FTP Server, Version 1.0.3
+
+Apache FTP Server can be obtained from http://mina.apache.org/ftpserver.
+
+// ------------------------------------------------------------------
+// NOTICE file corresponding to the section 4d of The Apache License,
+// Version 2.0, in this case for Apache FtpServer
+// ------------------------------------------------------------------
+
+Apache FtpServer
+Copyright 2003-2009 The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+
+This product includes/uses software, AOP alliance (http://aopalliance.sourceforge.net)
+License: Public Domain 
+
+This product includes/uses software, Log4j (http://logging.apache.org/log4j/docs/),
+developed by Apache Software Foundation  (http://www.apache.org)
+License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software, Apache Ftplet API (http://mina.apache.org/ftpserver),
+developed by The Apache Software Foundation  (http://www.apache.org/)
+License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0)
+
+This product includes/uses software, Apache FtpServer Core (http://mina.apache.org/ftpserver/ftpserver-core),
+developed by The Apache Software Foundation  (http://www.apache.org/)
+License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0)
+
+This product includes/uses software, Apache MINA Core (http://mina.apache.org/mina-core),
+developed by Apache MINA Project  (http://mina.apache.org/)
+License: Apache 2.0 License  (http://www.apache.org/licenses/LICENSE-2.0)
+
+This product includes/uses software, JCL 1.1.1 implemented over SLF4J (http://www.slf4j.org),
+developed by QOS.ch  (http://www.qos.ch)
+
+This product includes/uses software, SLF4J API Module (http://www.slf4j.org),
+developed by QOS.ch  (http://www.qos.ch)
+
+This product includes/uses software, SLF4J LOG4J-12 Binding (http://www.slf4j.org),
+developed by QOS.ch  (http://www.qos.ch)
+
+This product includes/uses software, Spring Framework: Beans (http://www.springframework.org),
+developed by Spring Framework  (http://www.springframework.org/)
+License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software, Spring Framework: Context (http://www.springframework.org),
+developed by Spring Framework  (http://www.springframework.org/)
+License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+This product includes/uses software, Spring Framework: Core (http://www.springframework.org),
+developed by Spring Framework  (http://www.springframework.org/)
+License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+-------------------------------------------------------------------------------
+
+
+
+AspectJ, Version 1.5.1a
+
+AspectJ can be obtained from http://www.eclipse.org/aspectj/.
+
+From:  aspectj-1.5.1_a\ LICENSE-AspectJ.html
+-------------------------------------------------------------------------------
+This is a binary-only release.  Source code is available from http://eclipse.org/aspectj
+The AspectJ compiler and core tools are distributed under the Common Public License version 1.0 available here and copied below. This license has been approved by the Open Source Initiative as conforming to the Open Source Definition. More information about the history and rationale behind this license can be found at the eclipse web site.
+Those portions of this distribution in the org.apache Java namespace are available under the terms of the Apache Software License, Version 1.1 (See http://jakarta.apache.org). 
+
+-------------------------------------------------------------------------------
+
+
+
+BeanShell, Version 2.0
+
+BeanShell can be obtained from http://www.beanshell.org/.
+
+From:  bsh-2.0-src\License.txt
+-------------------------------------------------------------------------------
+/*****************************************************************************
+ *                                                                           *
+ *  This file is part of the BeanShell Java Scripting distribution.          *
+ *  Documentation and updates may be found at http://www.beanshell.org/      *
+ *                                                                           *
+ *  Sun Public License Notice:                                               *
+ *                                                                           *
+ *  The contents of this file are subject to the Sun Public License Version  *
+ *  1.0 (the "License"); you may not use this file except in compliance with *
+ *  the License. A copy of the License is available at http://www.sun.com    * 
+ *                                                                           *
+ *  The Original Code is BeanShell. The Initial Developer of the Original    *
+ *  Code is Pat Niemeyer. Portions created by Pat Niemeyer are Copyright     *
+ *  (C) 2000.  All Rights Reserved.                                          *
+ *                                                                           *
+ *  GNU Public License Notice:                                               *
+ *                                                                           *
+ *  Alternatively, the contents of this file may be used under the terms of  *
+ *  the GNU Lesser General Public License (the "LGPL"), in which case the    *
+ *  provisions of LGPL are applicable instead of those above. If you wish to *
+ *  allow use of your version of this file only under the  terms of the LGPL *
+ *  and not to allow others to use your version of this file under the SPL,  *
+ *  indicate your decision by deleting the provisions above and replace      *
+ *  them with the notice and other provisions required by the LGPL.  If you  *
+ *  do not delete the provisions above, a recipient may use your version of  *
+ *  this file under either the SPL or the LGPL.                              *
+ *                                                                           *
+ *  Patrick Niemeyer (pat@pat.net)                                           *
+ *  Author of Learning Java, O'Reilly & Associates                           *
+ *  http://www.pat.net/~pat/                                                 *
+ *                                                                           *
+ *****************************************************************************/
+-------------------------------------------------------------------------------
+
+
+
+BIRT
+
+BIRT can be obtained from http://www.eclipse.org/birt/.
+
+From:  birt-runtime-2_2_0\about.html
+-------------------------------------------------------------------------------
+About This Content
+June 26, 2006
+License
+The Eclipse Foundation makes available all content in this plug-in ("Content"). Unless otherwise indicated below, the Content is provided to you under the terms and conditions of the Eclipse Public License Version 1.0 ("EPL"). A copy of the EPL is available at http://www.eclipse.org/legal/epl-v10.html. For purposes of the EPL, "Program" will mean the Content.
+If you did not receive this Content directly from the Eclipse Foundation, the Content is being redistributed by another party ("Redistributor") and different terms and conditions may apply to your use of any object code in the Content. Check the Redistributor's license that was provided with the Content. If no such license exists, contact the Redistributor. Unless otherwise indicated below, the terms and conditions of the EPL still apply to any source code in the Content and such source code may be obtained at http://www.eclipse.org.
+Third Party Content
+The Content includes items that have been sourced from third parties as set out below. If you did not receive this Content directly from the Eclipse Foundation, the following is provided for informational purposes only, and you should look to the Redistributors license for terms and conditions of use.
+Commons CLI 1.0
+This product includes software developed by the Apache Software Foundation (http://www.apache.org/) as part of the Jakarta Project. 
+The Commons CLI binary code is located in the following file:
+ReportEngine/lib/commons-cli-1.0.jar
+Commons CLI is:
+Copyright (c) 1999-2001 The Apache Software Foundation. All rights reserved.
+Your use of the Commons CLI code is subject to the terms and conditions of the Apache Software License 1.1 a copy of which is provided in about_files/LICENSE.txt and is available at http://www.apache.org/licenses/LICENSE-1.1. More specifically:
+1. Redistributions of source code must retain the above copyright notice, this list of
+conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of
+conditions and the following disclaimer in the documentation and/or other materials
+provided with the distribution.
+
+3. The end-user documentation included with the redistribution, if any, must include the
+following acknowledgment:
+"This product includes software developed by the Apache Software Foundation
+(http://www.apache.org/)." 
+Alternately, this acknowledgment may appear in the software itself, if and wherever such
+third-party acknowledgments normally appear.
+
+4. The names "The Jakarta Project", "Commons" and "Apache Software Foundation"
+must not be used to endorse or promote products derived from this software without prior
+written permission. For written permission, please contact apache@apache.org.
+
+5. Products derived from this software may not be called "Apache", nor may "Apache" appear
+in their name, without prior written permission of the Apache Software Foundation.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE APACHE SOFTWARE FOUNDATION OR ITS
+CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+Source code for Commons CLI is available at http://jakarta.apache.org/commons/cli/.
+-------------------------------------------------------------------------------
+
+From:  http://www.eclipse.org/legal/epl/notice.php
+-------------------------------------------------------------------------------
+Eclipse Foundation Software User Agreement
+March 17, 2005
+Usage Of Content
+THE ECLIPSE FOUNDATION MAKES AVAILABLE SOFTWARE, DOCUMENTATION, INFORMATION AND/OR OTHER MATERIALS FOR OPEN SOURCE PROJECTS (COLLECTIVELY "CONTENT"). USE OF THE CONTENT IS GOVERNED BY THE TERMS AND CONDITIONS OF THIS AGREEMENT AND/OR THE TERMS AND CONDITIONS OF LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED BELOW. BY USING THE CONTENT, YOU AGREE THAT YOUR USE OF THE CONTENT IS GOVERNED BY THIS AGREEMENT AND/OR THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED BELOW. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT AND THE TERMS AND CONDITIONS OF ANY APPLICABLE LICENSE AGREEMENTS OR NOTICES INDICATED OR REFERENCED BELOW, THEN YOU MAY NOT USE THE CONTENT.
+Applicable Licenses
+Unless otherwise indicated, all Content made available by the Eclipse Foundation is provided to you under the terms and conditions of the Eclipse Public License Version 1.0 ("EPL"). A copy of the EPL is provided with this Content and is also available at http://www.eclipse.org/legal/epl-v10.html. For purposes of the EPL, "Program" will mean the Content.
+Content includes, but is not limited to, source code, object code, documentation and other files maintained in the Eclipse.org CVS repository ("Repository") in CVS modules ("Modules") and made available as downloadable archives ("Downloads").
+Content may be structured and packaged into modules to facilitate delivering, extending, and upgrading the Content. Typical modules may include plug-ins ("Plug-ins"), plug-in fragments ("Fragments"), and features ("Features"). 
+Each Plug-in or Fragment may be packaged as a sub-directory or JAR (Java ARchive) in a directory named "plugins". 
+A Feature is a bundle of one or more Plug-ins and/or Fragments and associated material. Each Feature may be packaged as a sub-directory in a directory named "features". Within a Feature, files named "feature.xml" may contain a list of the names and version numbers of the Plug-ins and/or Fragments associated with that Feature. 
+Features may also include other Features ("Included Features"). Within a Feature, files named "feature.xml" may contain a list of the names and version numbers of Included Features. 
+The terms and conditions governing Plug-ins and Fragments should be contained in files named "about.html" ("Abouts"). The terms and conditions governing Features and Included Features should be contained in files named "license.html" ("Feature Licenses"). Abouts and Feature Licenses may be located in any directory of a Download or Module including, but not limited to the following locations:
+The top-level (root) directory 
+Plug-in and Fragment directories 
+Inside Plug-ins and Fragments packaged as JARs 
+Sub-directories of the directory named "src" of certain Plug-ins 
+Feature directories 
+Note: if a Feature made available by the Eclipse Foundation is installed using the Eclipse Update Manager, you must agree to a license ("Feature Update License") during the installation process. If the Feature contains Included Features, the Feature Update License should either provide you with the terms and conditions governing the Included Features or inform you where you can locate them. Feature Update Licenses may be found in the "license" property of files named "feature.properties" found within a Feature. Such Abouts, Feature Licenses, and Feature Update Licenses contain the terms and conditions (or references to such terms and conditions) that govern your use of the associated Content in that directory.
+THE ABOUTS, FEATURE LICENSES, AND FEATURE UPDATE LICENSES MAY REFER TO THE EPL OR OTHER LICENSE AGREEMENTS, NOTICES OR TERMS AND CONDITIONS. SOME OF THESE OTHER LICENSE AGREEMENTS MAY INCLUDE (BUT ARE NOT LIMITED TO):
+Common Public License Version 1.0 (available at http://www.eclipse.org/legal/cpl-v10.html) 
+Apache Software License 1.1 (available at http://www.apache.org/licenses/LICENSE) 
+Apache Software License 2.0 (available at http://www.apache.org/licenses/LICENSE-2.0) 
+IBM Public License 1.0 (available at http://oss.software.ibm.com/developerworks/opensource/license10.html) 
+Metro Link Public License 1.00 (available at http://www.opengroup.org/openmotif/supporters/metrolink/license.html) 
+Mozilla Public License Version 1.1 (available at http://www.mozilla.org/MPL/MPL-1.1.html) 
+IT IS YOUR OBLIGATION TO READ AND ACCEPT ALL SUCH TERMS AND CONDITIONS PRIOR TO USE OF THE CONTENT. If no About, Feature License, or Feature Update License is provided, please contact the Eclipse Foundation to determine what terms and conditions govern that particular Content.
+Cryptography
+Content may contain encryption software. The country in which you are currently may have restrictions on the import, possession, and use, and/or re-export to another country, of encryption software. BEFORE using any encryption software, please check the country's laws, regulations and policies concerning the import, possession, or use, and re-export of encryption software, to see if this is permitted.
+Java and all Java-based trademarks are trademarks of Sun Microsystems, Inc. in the United States, other countries, or both.
+-------------------------------------------------------------------------------
+
+
+
+c3p0, Version 0.9.1.1
+
+c3p0 can be obtained from http://sourceforge.net/projects/c3p0/.
+
+From:  \c3p0-0.9.1.2.src\src\classes\com\mchange\v2\c3p0\C3P0Registry.java 
+-------------------------------------------------------------------------------
+/*
+ * Distributed as part of c3p0 v.0.9.1.2
+ *
+ * Copyright (C) 2005 Machinery For Change, Inc.
+ *
+ * Author: Steve Waldman <swaldman@mchange.com>
+ *
+ * This library is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU Lesser General Public License version 2.1, as 
+ * published by the Free Software Foundation.
+ *
+ * This software is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Lesser General Public License for more details.
+ *
+ * You should have received a copy of the GNU Lesser General Public License
+ * along with this software; see the file LICENSE.  If not, write to the
+ * Free Software Foundation, Inc., 59 Temple Place, Suite 330,
+ * Boston, MA 02111-1307, USA.
+ */
+-------------------------------------------------------------------------------
+
+
+
+Castor XML, Version 0.9.5
+
+Castor XML can be obtained from http://www.castor.org/.
+
+From:  castor-0.9.5\README 
+-------------------------------------------------------------------------------
+Copyright (c) 1999-2003, Intalio Inc.
+-------------------------------------------------------------------------------
+
+
+
+CGLIB
+
+cglib can be obtained from http://cglib.sourceforge.net/.
+
+From:  cglib-2.2_beta1\NOTICE
+-------------------------------------------------------------------------------
+This product includes software developed by
+The Apache Software Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+Display Tag Library, Version 1.0
+
+Display tag library can be obtained from http://displaytag.sourceforge.net/.
+
+-------------------------------------------------------------------------------
+Copyright © 2002-2005 the Displaytag team. All Rights Reserved.
+-------------------------------------------------------------------------------
+
+
+
+DOM4J, Version 1.5.2
+
+dom4j can be obtained from http://www.dom4j.org/.
+
+-------------------------------------------------------------------------------
+Copyright 2001-2004 (C) MetaStuff, Ltd. All Rights Reserved.
+-------------------------------------------------------------------------------
+
+
+
+DWR, Version 1.1 Beta 3
+
+DWR can be obtained from http://getahead.org/dwr/.
+
+-------------------------------------------------------------------------------
+Copyright 2005 Joe Walker
+-------------------------------------------------------------------------------
+
+
+
+Ehcache
+
+EHCACHE can be obtained from http://ehcache.sourceforge.net/.
+
+From:  ehcache-1.4.0-beta\LICENSE.txt
+-------------------------------------------------------------------------------
+/**
+ *  Copyright 2003-2007 Luck Consulting Pty Ltd
+ *
+ *  Licensed under the Apache License, Version 2.0 (the "License");
+ *  you may not use this file except in compliance with the License.
+ *  You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ *  Unless required by applicable law or agreed to in writing, software
+ *  distributed under the License is distributed on an "AS IS" BASIS,
+ *  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ *  See the License for the specific language governing permissions and
+ *  limitations under the License.
+*/
+-------------------------------------------------------------------------------
+
+
+
+Expat, Version 2.0.1
+
+Expat can be obtained from http://expat.sourceforge.net/.
+
+
+
+EZMorph, Version 1.0.2
+
+EZMorph can be obtained from http://ehcache.sourceforge.net/.
+
+
+
+FreeMarker, Version 2.3.4
+
+FreeMarker can be obtained from http://freemarker.org/.
+
+From:  freemarker-2.3.4\ LICENSE.txt
+-------------------------------------------------------------------------------
+FreeMarker 1.x was released under the LGPL license. Later, by community
+consensus, we have switched over to a BSD-style license. As of FreeMarker
+2.2pre1, the original author, Benjamin Geer, has relinquished the copyright in
+behalf of Visigoth Software Society. The current copyright holder is the
+Visigoth Software Society.
+
+This software consists of voluntary contributions made by many individuals on
+behalf of the Visigoth Software Society. For more information on the Visigoth
+Software Society, please see http://www.visigoths.org/
+-------------------------------------------------------------------------------
+
+
+
+Ganymed SSH-2 for Java, Version build209
+
+Ganymed SSH-2 for Java can be obtained from http://www.ganymed.ethz.ch/ssh2/.
+
+-------------------------------------------------------------------------------
+The Ganymed SSH-2 for Java library is released under a BSD style license. The Java implementations of the AES, Blowfish and 3DES ciphers have been taken (and slightly modified) from the cryptography package released by The Legion Of The Bouncy Castle. 
+For details, please see the LICENSE.txt file. 
+-------------------------------------------------------------------------------
+
+
+
+GNU getopt for Java, Version 1.0.8
+
+GNU getopt for Java can be obtained from http://www.urbanophile.com/arenn/hacking/download.html.
+
+From:  java-getopt-1.0.8\gnu\getopt\Getopt.java
+-------------------------------------------------------------------------------
+/**************************************************************************
+/* Getopt.java -- Java port of GNU getopt from glibc 2.0.6
+/*
+/* Copyright (c) 1987-1997 Free Software Foundation, Inc.
+/* Java Port Copyright (c) 1998 by Aaron M. Renn (arenn@urbanophile.com)
+/*
+/* This program is free software; you can redistribute it and/or modify
+/* it under the terms of the GNU Library General Public License as published 
+/* by  the Free Software Foundation; either version 2 of the License or
+/* (at your option) any later version.
+/*
+/* This program is distributed in the hope that it will be useful, but
+/* WITHOUT ANY WARRANTY; without even the implied warranty of
+/* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+/* GNU Library General Public License for more details.
+/*
+/* You should have received a copy of the GNU Library General Public License
+/* along with this program; see the file COPYING.LIB.  If not, write to 
+/* the Free Software Foundation Inc., 59 Temple Place - Suite 330, 
+/* Boston, MA  02111-1307 USA
+/**************************************************************************/
+-------------------------------------------------------------------------------
+
+
+
+Google Web Toolkit, Version 2.4.0
+
+Google Web Toolkit (GWT) can be obtained from https://developers.google.com/web-toolkit/.
+
+License Information regarding Bundled Third-Party Software
+The following third party software is distributed with Google Web Toolkit and is provided under other licenses and/or has source available from other locations. Where "gwt-dev.jar" is listed, substitute in the name of the jar corresponding to your platform, e.g. "gwt-dev-linux.jar". 
+Package
+License
+Source Code Availability
+Apache Tomcat
+Apache License v. 2.0 (above)
+tomcat.apache.org; modifications are at org/apache/tomcat within gwt-dev.jar
+Browser Detect v2.1.6
+Creative Commons Attribution 1.0
+google-web-toolkit.googlecode.com; transliterated into Java source
+Eclipse Java Development Tools (JDT)
+Eclipse Public License v. 1.0
+eclipse.org
+Eclipse Standard Widget Toolkit (SWT)
+Eclipse Public License v. 1.0
+Linux, Windows, and Mac; modifications are at org/eclipse/swt within gwt-dev.jar 
+JFreeChart
+GNU Lesser General Public License v. 2.1
+jfree.org
+Mozilla Rhino
+Mozilla Public License v. 1.1
+com/google/gwt/dev/js/rhino/ within gwt-dev.jar
+Mozilla 1.7.12 (Linux only)
+Mozilla Public License v. 1.1
+mozilla.org
+WebKit 418.9 (Mac only)
+GNU Lesser General Public License v. 2.1
+webkit.org
+
+
+
+Google Web Toolkit Incubator, Version 1.4
+
+Google Web Toolkit Incubator can be obtained from http://code.google.com/p/google-web-toolkit-incubator/.
+
+
+
+Grammatica, Version 1.4
+
+Grammatica can be obtained from http://grammatica.percederberg.net/.
+
+From:  http://grammatica.percederberg.net/index.html
+-------------------------------------------------------------------------------
+Grammatica is free software released with full source code under the GNU LGPL license (or GNU GPL with a linking exception). This license guarantees access to the source code and permits free usage, but redistribution of any modified code must be made under the same license. Please read the GNU LGPL license for more information.
+-------------------------------------------------------------------------------
+
+From:  grammatica-1.4\LICENSE.txt
+-------------------------------------------------------------------------------
+
+GRAMMATICA LICENSE
+==================
+
+The software in this package is distributed under the GNU General 
+Public License with the "Library Exception" described below. A copy 
+of GNU General Public License (GPL) is included in this distribution, 
+in the file LICENSE-GPL.txt. All the files distributed under GPL also 
+include the following special exception:
+
+    As a special exception, the copyright holders of this library 
+    give you permission to link this library with independent modules
+    to produce an executable, regardless of the license terms of 
+    these independent modules, and to copy and distribute the 
+    resulting executable under terms of your choice, provided that 
+    you also meet, for each linked independent module, the terms and 
+    conditions of the license of that module. An independent module 
+    is a module which is not derived from or based on this library. 
+    If you modify this library, you may extend this exception to your 
+    version of the library, but you are not obligated to do so. If 
+    you do not wish to do so, delete this exception statement from 
+    your version. 
+
+As such, this software can be used to run free as well as proprietary
+applications and applets. Modifications made to the classes in this
+distribution must however be distributed under the GPL, optionally
+with the same exception as above.
+
+_____________________________________________________________________
+
+Copyright (c) 2003 Per Cederberg. Permission is granted to copy this 
+document verbatim in any medium, provided that this copyright notice 
+is left intact.
+-------------------------------------------------------------------------------
+
+
+
+Hibernate Core, Version 3.0.5
+Hibernate Tool, Version 2.1
+
+Hibernate can be obtained from http://grammatica.percederberg.net/.
+
+From:  hibernate-3.0\readme.txt
+-------------------------------------------------------------------------------
+This software is distributed under the terms of the FSF Lesser Gnu 
+Public License (see lgpl.txt).
+
+This product includes software developed by the Apache Software 
+Foundation (http://www.apache.org/).
+-------------------------------------------------------------------------------
+
+
+
+JBoss Application Server, Version 4.0.1 sp1
+
+JBoss Application Server can be obtained from http://labs.jboss.com/jbossas/.
+
+-------------------------------------------------------------------------------
+/*
+  *
+  * JBoss, Home of Professional Open Source
+  * Copyright 2006, JBoss Inc., and others contributors as indicated 
+  * by the @authors tag. All rights reserved. 
+  * See the copyright.txt in the distribution for a
+  * full listing of individual contributors. 
+  * This copyrighted material is made available to anyone wishing to use,
+  * modify, copy, or redistribute it subject to the terms and conditions
+  * of the GNU Lesser General Public License, v. 2.1.
+  * This program is distributed in the hope that it will be useful, but WITHOUT A 
+  * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A 
+  * PARTICULAR PURPOSE.  See the GNU Lesser General Public License for more details.
+  * You should have received a copy of the GNU Lesser General Public License,
+  * v.2.1 along with this distribution; if not, write to the Free Software
+  * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, 
+  * MA  02110-1301, USA.
+  * 
+  * (C) 2005-2006,
+  */
+-------------------------------------------------------------------------------
+
+
+
+JBoss Cache, Version 1.2.4.SP2
+
+JBoss Cache can be obtained from http://labs.jboss.com/jbosscache/.
+
+JBossCache is licensed under LGPL.
+
+-------------------------------------------------------------------------------
+/*
+  * JBoss, Home of Professional Open Source
+  * Copyright 2005, JBoss Inc., and individual contributors as indicated
+  * by the @authors tag. See the copyright.txt in the distribution for a
+  * full listing of individual contributors.
+  *
+  * This is free software; you can redistribute it and/or modify it
+  * under the terms of the GNU Lesser General Public License as
+  * published by the Free Software Foundation; either version 2.1 of
+  * the License, or (at your option) any later version.
+  *
+  * This software is distributed in the hope that it will be useful,
+  * but WITHOUT ANY WARRANTY; without even the implied warranty of
+  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU
+  * Lesser General Public License for more details.
+  *
+  * You should have received a copy of the GNU Lesser General Public
+  * License along with this software; if not, write to the Free
+  * Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+  * 02110-1301 USA, or see the FSF site: http://www.fsf.org.
+  */
+-------------------------------------------------------------------------------
+
+Jetty, Version 6.1.7
+
+Jetty can be obtained from http://jetty.mortbay.org/.
+
+-------------------------------------------------------------------------------
+==============================================================
+ Jetty Web Container 
+ Copyright 1995-2006 Mort Bay Consulting Pty Ltd
+==============================================================
+
+This product includes some software developed at The Apache Software 
+Foundation (http://www.apache.org/).
+
+The javax.servlet package used by Jetty is copyright 
+Sun Microsystems, Inc and Apache Software Foundation. It is 
+distributed under the Common Development and Distribution License.
+You can obtain a copy of the license at 
+https://glassfish.dev.java.net/public/CDDLv1.0.html.
+
+The UnixCrypt.java code ~Implements the one way cryptography used by
+Unix systems for simple password protection.  Copyright 1996 Aki Yoshida,
+modified April 2001  by Iris Van den Broeke, Daniel Deville.
+
+The default JSP implementation is provided by the Glassfish JSP engine
+from project Glassfish http://glassfish.dev.java.net.  Copyright 2005
+Sun Microsystems, Inc. and portions Copyright Apache Software Foundation.
+
+Some portions of the code are Copyright:
+  2006 Tim Vernum 
+  1999 Jason Gilbert.
+
+The jboss integration module contains some LGPL code.
+-------------------------------------------------------------------------------
+
+
+
+JFreeChart, Version 1.0.3
+
+JFreeChart can be obtained from http://www.jfree.org/jfreechart/.
+
+From:  jfreechart-1.0.3\README.txt
+-------------------------------------------------------------------------------
+*******************************
+*  JFREECHART: Version 1.0.3  *
+*******************************
+
+17 November 2006
+
+(C)opyright 2000-2006, by Object Refinery Limited and Contributors.
+-------------------------------------------------------------------------------
+
+
+
+JGoodies Forms, Version 1.2.1
+
+JGoodies Forms can be obtained from http://www.jgoodies.com/freeware/forms/.
+
+-------------------------------------------------------------------------------
+Copyright (c) 2002-2006 JGoodies Karsten Lentzsch. All Rights Reserved.
+-------------------------------------------------------------------------------
+
+
+
+Json-lib, Version 1.1
+
+Json-lib can be obtained from http://json-lib.sourceforge.net/.
+
+-------------------------------------------------------------------------------
+Copyright 2002-2006 the original author or authors.
+-------------------------------------------------------------------------------
+
+
+
+JSR-311, Version 1.1.1
+
+JSR-311 can be obtained from http://jsr311.java.net/
+
+
+
+libssh2, Version 0.18
+
+libssh2 can be obtained from http://www.libssh2.org/
+
+
+
+Ext GWT, Version 2.2.5
+
+Ext GWT is used under commercial software license.  It is not licensed for use independently of Calix applications.
+
+
+
+ONGL, Version 3.0 Preview 1
+
+ONGL can be obtained from http://www.ognl.org/.
+
+-------------------------------------------------------------------------------
+Copyright (c) 1998-2004, Drew Davidson and Luke Blanshard
+All rights reserved.
+-------------------------------------------------------------------------------
+
+
+
+OpenCSV, Version 1.7
+
+OpenCSV can be obtained from http://opencsv.sourceforge.net/.
+
+From:  opencsv-1.7\src\au\com\bytecode\opencsv\CSVReader.java
+-------------------------------------------------------------------------------
+Copyright 2005 Bytecode Pty Ltd.
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-------------------------------------------------------------------------------
+
+
+
+OpenJMS, Version 0.7.6.1
+
+OpenJMS can be obtained from http://openjms.sourceforge.net/.
+
+-------------------------------------------------------------------------------
+Copyright © 1999-2004 The OpenJMS Group. All Rights Reserved.
+Copyright 2001-2003 (C) Exoffice Technologies Inc. All Rights Reserved.
+-------------------------------------------------------------------------------
+
+
+
+OpenSSH, Version 4.2p1
+
+OpenSSH can be obtained from  http://www.openssh.com/.
+
+
+
+OpenSSL, Version 0.9.8a
+
+OpenSSL can be obtained from http://www.openssl.org/.
+
+
+
+PostgreSQL, Version 8.4.2
+
+PosstgreSQL can be obtained from http://www.postgresql.org/.
+
+-------------------------------------------------------------------------------
+PostgreSQL is released under the BSD license.
+
+PostgreSQL Database Management System
+(formerly known as Postgres, then as Postgres95)
+Portions Copyright (c) 1996-2005, The PostgreSQL Global Development Group
+Portions Copyright (c) 1994, The Regents of the University of California
+-------------------------------------------------------------------------------
+
+
+
+Proxool
+
+Proxool can be obtained from http://proxool.sourceforge.net/.
+
+-------------------------------------------------------------------------------
+Copyright (c) 2002 - 2003 Proxool.  All rights reserved.
+
+This software consists of voluntary contributions made by many
+individuals on behalf of the Proxool Project. For more information
+on the Proxool Project please see the latest version available at 
+http://proxool.sourceforge.net.
+-------------------------------------------------------------------------------
+
+
+
+Quartz, Version 1.5.1
+
+Quartz can be obtained from http://www.opensymphony.com/quartz/.
+
+From:  quartz-1.5.1\license.txt
+-------------------------------------------------------------------------------
+All source code, binaries, documentation, and other files in this distribution 
+are subject to the following copyright and license agreement, unless 
+otherwise documented:
+
+/* 
+ * Copyright 2004-2005 OpenSymphony 
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License"); you may not 
+ * use this file except in compliance with the License. You may obtain a copy 
+ * of the License at 
+ * 
+ *   http://www.apache.org/licenses/LICENSE-2.0 
+ *   
+ * Unless required by applicable law or agreed to in writing, software 
+ * distributed under the License is distributed on an "AS IS" BASIS, WITHOUT 
+ * WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the 
+ * License for the specific language governing permissions and limitations 
+ * under the License.
+ * 
+ */
+-------------------------------------------------------------------------------
+
+
+
+SiteMesh, Version 2.2.1
+
+SiteMesh 2.2.1 can be obtained from http://www.opensymphony.com/sitemesh/.
+
+-------------------------------------------------------------------------------
+This software is published under the terms of the OpenSymphony Software License version 1.1.
+-------------------------------------------------------------------------------
+
+
+
+SNMP4J
+
+SNMP4J can be obtained from http://www.snmp4j.org/
+
+From:  snmp4j-1.8.2\NOTICE
+-------------------------------------------------------------------------------
+   =========================================================================
+   ==  NOTICE file corresponding to the section 4 d of                    ==
+   ==  the Apache License, Version 2.0,                                   ==
+   ==  in this case for the SNMP4J distribution.                          ==
+   =========================================================================
+
+   This product includes software developed by
+   SNMP4J.org (http://www.snmp4j.org/).
+
+   Please read the different LICENSE files present in the root directory of
+   this distribution.
+
+   The names "SNMP4J" and  "Apache Software Foundation"  must not be used to
+   endorse  or promote  products derived  from this  software without prior
+   written permission. For written permission, please contact
+   info@snmp4j.org (SNMP4J) or apache@apache.org.
+-------------------------------------------------------------------------------
+
+
+
+Spring Framework, Version 1.2.6
+
+Spring Framework can be obtained from http://www.springframework.org/
+
+From:  spring-framework-1.2.6\notice.txt
+-------------------------------------------------------------------------------
+   ======================================================================
+   == NOTICE file corresponding to section 4 d of the Apache License,  ==
+   == Version 2.0, in this case for the Spring Framework distribution. ==
+   ======================================================================
+
+   This product includes software developed by
+   the Apache Software Foundation (http://www.apache.org).
+
+   This product also includes software developed by
+   Clinton Begin (http://www.ibatis.com).
+
+   The end-user documentation included with a redistribution, if any,
+   must include the following acknowledgement:
+
+     "This product includes software developed by the Spring Framework
+      Project (http://www.springframework.org)."
+
+   Alternately, this acknowledgement may appear in the software itself,
+   if and wherever such third-party acknowledgements normally appear.
+
+   The names "Spring" and "Spring Framework" must not be used to
+   endorse or promote products derived from this software without
+   prior written permission. For written permission, please contact
+   rod.johnson@interface21.com or juergen.hoeller@interface21.com.
+-------------------------------------------------------------------------------
+
+
+
+Spring Framework, Version 3.0.6
+
+Spring Framework can be obtained from http://www.springframework.org/
+
+From:  spring-framework-3.0.6\ license.txt
+-------------------------------------------------------------------------------
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+APPENDIX: How to apply the Apache License to your work.
+To apply the Apache License to your work, attach the following
+boilerplate notice, with the fields enclosed by brackets "[]"
+replaced with your own identifying information. (Don't include
+the brackets!)  The text should be enclosed in the appropriate
+comment syntax for the file format. We also recommend that a
+file or class name and description of purpose be included on the
+same "printed page" as the copyright notice for easier
+identification within third-party archives.
+Copyright [yyyy] [name of copyright owner]
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-------------------------------------------------------------------------------
+
+
+
+Sun JDK 1.6
+
+Sun Java Development Kit (JDK) 1.6 can be obtained from http://java.sun.com/
+
+-------------------------------------------------------------------------------
+Copyright © 2010 Sun Microsystems, Inc., 4150 Network Circle, Santa Clara,
+California 95054, U.S.A.  All rights reserved.
+
+Sun Microsystems, Inc.  has intellectual property rights relating to
+technology embodied in the product that is described in this document.
+In particular, and without limitation, these intellectual property
+rights may include one or more of the U.S.  patents listed at
+http://www.sun.com/patents and one or more additional patents or pending
+patent applications in the U.S.  and in other countries.
+
+THIS PRODUCT CONTAINS CONFIDENTIAL INFORMATION AND TRADE SECRETS OF SUN
+MICROSYSTEMS, INC.  USE, DISCLOSURE OR REPRODUCTION IS PROHIBITED
+WITHOUT THE PRIOR EXPRESS WRITTEN PERMISSION OF SUN MICROSYSTEMS, INC.
+
+U.S.  Government Rights - Commercial software.  Government users are
+subject to the Sun Microsystems, Inc.  standard license agreement and
+applicable provisions of the FAR and its supplements.
+
+Use is subject to license terms.
+
+This distribution may include materials developed by third parties.
+
+Sun, Sun Microsystems, the Sun logo, Java and Java SE are trademarks or
+registered trademarks of Sun Microsystems, Inc.  in the U.S.  and other
+countries.
+
+This product is covered and controlled by U.S.  Export Control laws and
+may be subject to the export or import laws in other countries.
+Nuclear, missile, chemical biological weapons or nuclear maritime end
+uses or end users, whether direct or indirect, are strictly prohibited.
+Export or reexport to countries subject to U.S.  embargo or to entities
+identified on U.S.  export exclusion lists, including, but not limited
+to, the denied persons and specially designated nationals lists is
+strictly prohibited.
+
+Copyright © 2010 Sun Microsystems, Inc., 4150 Network Circle, Santa Clara,
+-------------------------------------------------------------------------------
+
+
+
+Sun JavaMail, Version 1.3.1
+
+Swing JavaMail can be obtained from http://java.sun.com/products/javamail/.
+
+
+
+Swing Layout, Version 1.0.2
+
+Swing Layout can be obtained from https://swing-layout.dev.java.net/.
+
+From: swing-layout-1.0.2\COPYING
+-------------------------------------------------------------------------------
+Copyright (c) 2005-2006 Sun Microsystems, Inc., 4150 Network Circle, Santa
+Clara, California 95054, U.S.A. All rights reserved.  Use is subject
+to license terms below.  Sun, Sun Microsystems and the Sun logo are
+trademarks or registered trademarks of Sun Microsystems, Inc. in the
+U.S. and other countries.
+ 
+Notice: This product is covered by U.S. export control laws and may be
+subject to the export or import laws in other countries. These laws may
+restrict the fields of use for this software and may require you to
+secure government authorization.
+-------------------------------------------------------------------------------
+
+
+
+Timing Framework - Swing, Version 3.0
+
+Timing Framework - Swing can be obtained from http://java.net/projects/timingframework.
+
+-------------------------------------------------------------------------------
+The modern Timing Framework implementation and the SureLogic promises
+are released under the following terms:
+
+   Copyright (c) 2011, SureLogic, Inc
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+The classic Timing Framework implementation (Chet's work prior to 2010)
+are released under following terms:
+
+   Copyright (c) 2007, Sun Microsystems, Inc
+   All rights reserved.
+
+   Redistribution and use in source and binary forms, with or without
+   modification, are permitted provided that the following conditions
+   are met:
+
+      * Redistributions of source code must retain the above copyright
+        notice, this list of conditions and the following disclaimer.
+      * Redistributions in binary form must reproduce the above
+        copyright notice, this list of conditions and the following 
+        disclaimer in the documentation and/or other materials provided 
+        with the distribution.
+      * Neither the name of the Timing Framework project nor the names of
+        its contributors may be used to endorse or promote products derived 
+        from this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+    "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+    LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+    A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+    OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+    SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+    LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+    DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+    THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+    (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+-------------------------------------------------------------------------------
+
+
+
+util.concurrent, Version 1.3.2
+
+EDU.oswego.cs.dl.util.concurrent can be obtained from http://g.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/concurrent/intro.html.
+
+From:  http://g.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/concurrent/intro.html
+-------------------------------------------------------------------------------
+All classes are released to the public domain and may be used for any purpose whatsoever without permission or acknowledgment. Portions of the CopyOnWriteArrayList and ConcurrentReaderHashMap classes are adapted from Sun JDK source code. These are copyright of Sun Microsystems, Inc, and are used with their kind permission, as described in this license.
+
+http://g.oswego.edu/dl/classes/EDU/oswego/cs/dl/util/sun-u.c.license.pdf
+-------------------------------------------------------------------------------
+
+
+
+WebWork, Version 2.2.4
+
+WebWork can be obtained from http://www.opensymphony.com/webwork/.
+
+
+
+Westhawk's Java SNMP Stack, Version 4.13
+
+Westhawk's Java SNMP Stack can be obtained from http://snmp.westhawk.co.uk/.
+
+From:  snmp4_13\uk\co\westhawk\snmp\stack\SnmpContext.java
+-------------------------------------------------------------------------------
+* Copyright (C) 1996, 1997, 1998, 1999, 2000, 2001, 2002 by Westhawk Ltd
+* <a href="www.westhawk.co.uk">www.westhawk.co.uk</a>
+*
+* Permission to use, copy, modify, and distribute this software
+* for any purpose and without fee is hereby granted, provided
+* that the above copyright notices appear in all copies and that
+* both the copyright notice and this permission notice appear in
+* supporting documentation.
+* This software is provided "as is" without express or implied
+* warranty.
+* author <a href="mailto:snmp@westhawk.co.uk">Tim Panton</a>
+-------------------------------------------------------------------------------
+
+
+
+END OF FILE

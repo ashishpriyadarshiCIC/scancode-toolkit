@@ -1,0 +1,853 @@
+license_expression: lgpl-2.0-plus OR negative
+is_license_reference: yes
+---
+gnome-libs-1.0.54-1::/usr/lib/libart_lgpl.so.2 
+gnome-libs-1.0.54-1::/usr/lib/libgnome.so.32 
+--------------------
+license_expression: gpl-3.0
+is_license_notice: yes
+---
+under the GNU General Public License (v3 or later)
+
+--------------------
+license_expression: gpl-2.0
+is_license_notice: yes
+---
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License Version 2 as published by the Free Software Foundation.
+
+--------------------
+license_expression: gpl-2.0
+is_license_notice: yes
+---
+License
+
+ is specifically licensed under GPL v2.0, and no later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
+--------------------
+license_expression: gpl-3.0
+is_license_notice: yes
+---and is available as open source under the GNU Public License (v3)
+--------------------
+license_expression: gpl-3.0
+is_license_notice: yes
+---
+Licensed under GPLv3
+--------------------
+license_expression: gpl-2.0
+is_license_notice: yes
+---
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; version 2 dated June, 1991.
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License along
+  with this program; if not, write to the Free Software Foundation, Inc.,
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+--------------------
+license_expression: gpl-3.0-plus
+is_license_refetence: yes
+---
+The GPL-3.0+ license http://spdx.org/licenses/GPL-3.0+
+--------------------
+license_expression: gpl-3.0-plus
+is_license_notice: yes
+---
+ is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
+
+The GPL-3.0+ license http://spdx.org/licenses/GPL-3.0+
+--------------------
+license_expression: other-copyleft
+is_license_notice: yes
+---
+Additional permission under GNU GPL version 3 section 7:
+--------------------
+license_expression: TBD
+is_license_notice: yes
+---
+https://www2.cs.duke.edu/donaldlab/rdcpanda.php
+rdc-analytic and rdc-Panda are free software and can be redistributed and/or modified
+under the terms of the GNU Lesser General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (optionally) any later version. rdc-analytic and
+rdc-Panda are distributed in the hope that they will be useful, but WITHOUT ANY WAR-
+RANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PAR-
+TICULAR PURPOSE. See the GNU Lesser General Public License for more details. For full
+licensing details, including citation requirements for the software, please refer to Section 1 and
+Section 2, respectively.
+There are additional restrictions imposed on the use and distribution of this open-source code,
+including:
+• The header from Section 1 must be included in any modification or extension of the code;
+• Any publications, grant applications, or patents that use rdc-analytic/rdc-Panda must
+state that rdc-analytic/rdc-Panda was used, with a sentence such as “We used the open-
+source rdc-analytic/rdc-Panda software [Ref] to compute...”
+• You are required to cite our papers in any publications that use this code. The citation for
+the various different modules of our software is described in Section 2.
+
+--------------------
+license_expression: WEIRD
+is_license_notice: yes
+---
+https://www2.cs.duke.edu/donaldlab/rdcpanda.php
+RDC-ANALYTIC is free software; you can redistribute it and/or modify it under
+the terms of the GNU Lesser General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+RDC-ANALYTIC is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more
+details.
+You should have received a copy of the GNU Lesser General Public License
+along with this library; if not, see:
+<http://www.gnu.org/licenses/>.
+There are additional restrictions imposed on the use and distribution of this
+open-source code, including: (A) this header must be included in any
+modification or extension of the code; (B) you are required to cite our
+papers in any publications that use this code. The citation for the various
+different modules of our software, together with a complete list of
+requirements and restrictions are found in the document license.pdf enclosed
+with this distribution.
+
+
+--------------------
+license_expression: WEIRD
+is_license_notice: yes
+---
+https://www2.cs.duke.edu/donaldlab/rdcpanda.php
+RDC-PANDA is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more
+details.
+You should have received a copy of the GNU Lesser General Public License
+along with this library; if not, see:
+<http://www.gnu.org/licenses/>.
+There are additional restrictions imposed on the use and distribution of this
+open-source code, including: (A) this header must be included in any
+modification or extension of the code; (B) you are required to cite our
+papers in any publications that use this code. The citation for the various
+different modules of our software, together with a complete list of
+requirements and restrictions are found in the document license.pdf enclosed
+with this distribution.
+--------------------
+license_expression: weird
+is_license_notice: yes
+---
+https://www2.cs.duke.edu/donaldlab/rdcpanda.php
+Citation Requirements
+You are required to cite our papers in any publications that use this code. The primary citation corresponding to this software is [1]. The papers that can be cited based-on or related-to this software are listed below.
+--------------------
+license_expression: mpl-2.0
+referenced_filenames:
+    - LICENSE
+is_license_notice: yes
+---
+This software is licensed under the MPL version 2.0. For more information, read the file LICENSE.
+
+--------------------
+license_expression: gpl-2.0-plus
+is_license_notice: yes
+---
+This software is supplied under the terms of the GNU General Public
+License version 2 or later. The full text of the license can be found
+at:
+
+	http://www.gnu.org/copyleft/gpl.html
+--------------------
+license_expression: gpl-1.0-plus
+is_license_notice: yes
+---
+ software is licensed under the Free Software Foundation's General Public License (GPL) as Open Source code. 
+--------------------
+license_expression: unknown
+is_license_notice: yes
+---
+Code we have written is also available under a dual license agreement that allows a developer organization to make changes to the code without returning those changes to the community. 
+--------------------
+license_expression: gpl-1.0-plus
+is_license_notice: yes
+---
+Our software is licensed under the GNU General Public License.
+--------------------
+license_expression: lgpl-2.0-plus
+is_license_notice: yes
+---
+  This file is part of the GNU C Library.
+
+  This library is free software; you can redistribute it and/or
+  modify it under the terms of the GNU Library General Public License as
+  published by the Free Software Foundation; either version 2 of the
+  License, or (at your option) any later version.
+
+  This library is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+  Library General Public License for more details.
+
+  You should have received a copy of the GNU Library General Public
+  License along with this library; see the file COPYING.LIB.  If not,
+  write to the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+  Boston, MA 02111-1307, USA.  */
+
+--------------------
+license_expression: lgpl-2.0-plus
+is_license_notice: yes
+---
+  This library is free software; you can redistribute it and/or
+  modify it under the terms of the GNU Library General Public License as
+  published by the Free Software Foundation; either version 2 of the
+  License, or (at your option) any later version.
+
+  This library is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+  Library General Public License for more details.
+
+  You should have received a copy of the GNU Library General Public
+  License along with this library; see the file COPYING.LIB.  If not,
+  write to the Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+  Boston, MA 02111-1307, USA.  */
+--------------------
+license_expression: gpl-1.0-plus
+is_license_notice: yes
+---
+This program may be freely redistributed under the terms of the GNU GPL
+GNU GPL
+
+--------------------
+license_expression: gpl-2.0-plus
+is_license_tag: yes
+---
+License: GPLv2+
+--------------------
+license_expression: gpl-2.0-plus
+referenced_filenames:
+    - COPYING
+is_license_notice: yes
+---
+is distributed under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version. A copy of this license can be found in the file COPYING included with the source code of this program. 
+
+--------------------
+license_expression: apache-2.0 OR mit
+is_license_notice: yes
+referenced_filenames:
+    - LICENSE-APACHE
+    - LICENSE-MIT
+---
+License
+
+Licensed under either of
+
+    Apache License, Version 2.0 (LICENSE-APACHE or http://www.apache.org/licenses/LICENSE-2.0)
+    MIT license (LICENSE-MIT or http://opensource.org/licenses/MIT)
+
+at your option.
+--------------------
+license_expression: apache-2.0 OR mit
+is_license_notice: yes
+referenced_filenames:
+    - LICENSE-APACHE
+    - LICENSE-MIT
+---
+
+License
+
+Licensed under either of
+
+    Apache License, Version 2.0 (LICENSE-APACHE or http://www.apache.org/licenses/LICENSE-2.0)
+    MIT license (LICENSE-MIT or http://opensource.org/licenses/MIT)
+
+at your option.
+Contribution
+
+See CONTRIBUTING.md for hacking.
+
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in the work by you, as defined in the Apache-2.0 license, shall be dual licensed as above, without any additional terms or conditions.
+
+--------------------
+license_expression: gpl-3.0+
+is_license_notice: yes
+---
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it. There is NO WARRANTY, to the extent permitted by law. 
+--------------------
+license_expression: us-govt-unlimited-rights 
+is_license_text: yes
+---
+
+This material is provided with unlimited rights to the U.S. Government
+by Applied Information Sciences under Contract No. 
+monitored by the National Geospatial-Intelligence Agency. It may be used by
+or for the U.S. Government pursuant to the grant of unlimited rights
+contained in the clause at DFARS 252.227-7013 (Nov. 1995) or DFARS
+252.227-7014 (Jun 1995) as appropriate.
+--------------------
+license_expression: mit
+is_license_notice: yes
+---
+License
+
+The  is available as open source under the terms of the MIT License.
+--------------------
+license_expression: apache-2.0
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+  <license>
+    http://www.apache.org/licenses/LICENSE-2.0.txt
+  </license>
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+  <licenses>
+    <license>
+      <name>Eclipse Public License - v 1.0</name>
+      <url>http://www.eclipse.org/legal/epl-v10.html</url>
+    </license>
+    <license>
+      <name>Eclipse Public License - v 2.0</name>
+      <url>https://www.eclipse.org/org/documents/epl-2.0/EPL-2.0.html</url>
+    </license>
+  </licenses>
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+This program and the accompanying materials are dual-licensed under
+either the terms of the Eclipse Public License v1.0 as published by
+the Eclipse Foundation
+ 
+  or (per the licensee's choosing)
+ 
+under the terms of the GNU Lesser General Public License version 2.1
+as published by the Free Software Foundation.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+  <licenses>
+    <license>
+      <name>Eclipse Public License - v 1.0</name>
+      <url>http://www.eclipse.org/legal/epl-v10.html</url>
+    </license>
+
+    <license>
+      <name>GNU Lesser General Public License</name>
+      <url>http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</url>
+    </license>
+</licenses>
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+ * This program and the accompanying materials are dual-licensed under
+ * either the terms of the Eclipse Public License v1.0 as published by
+ * the Eclipse Foundation
+ *
+ *   or (per the licensee's choosing)
+ *
+ * under the terms of the GNU Lesser General Public License version 2.1
+ * as published by the Free Software Foundation.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+# This file is subject to the terms and conditions defined in
+# file 'LICENSE', which is part of this source code package.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+// Released as open source under the MIT License.  See LICENSE file.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+// Licensed under the GPLv3, or at your option any later version.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+The code is translated from the public domain source code
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+notes: three rules
+---
+// This code is a derivative work of the LGPL code at
+
+// License: LGPL 2.1 (same terms as original code)
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+# This software is licensed as described in the file COPYING, which
+# you should have received as part of this distribution.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+under the BSD license
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+	The terms of use of the software are governed by the BSD license.
+--------------------
+license_expression: free-unknown
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+	Software incorporates the following openly-licensed libraries and code:
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+# TLSH is provided for use under two licenses: Apache OR BSD.
+# Users may opt to use either license depending on the license
+# restictions of the systems with which they plan to integrate
+# the TLSH code.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+is licensed under the MIT license. Check the LICENSE file for details.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+License
+
+Permission to modify and redistribute is granted under the terms of the Apache 2.0 license.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+The Prosperity Public License 2.0.0
+
+Contributor: Dependabot Ltd
+
+Source Code: https://github.com/dependabot/dependabot-core
+
+This license lets you use and share this software for free,
+with a trial-length time limit on commercial use. Specifically:
+
+If you follow the rules below, you may do everything with this
+software that would otherwise infringe either the contributor's
+copyright in it, any patent claim the contributor can license
+that covers this software as of the contributor's latest
+contribution, or both.
+
+1. You must limit use of this software in any manner primarily
+   intended for or directed toward commercial advantage or
+   private monetary compensation to a trial period of 32
+   consecutive calendar days. This limit does not apply to use in
+   developing feedback, modifications, or extensions that you
+   contribute back to those giving this license.
+
+2. Ensure everyone who gets a copy of this software from you, in
+   source code or any other form, gets the text of this license
+   and the contributor and source code lines above.
+
+3. Do not make any legal claim against anyone for infringing any
+   patent claim they would infringe by using this software alone,
+   accusing this software, with or without changes, alone or as
+   part of a larger application.
+
+You are excused for unknowingly breaking rule 1 if you stop
+doing anything requiring this license within 30 days of
+learning you broke the rule.
+
+**This software comes as is, without any warranty at all. As far
+as the law allows, the contributor will not be liable for any
+damages related to this software or this license, for any kind of
+legal claim.**
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+ spec.license = "Nonstandard" # License Zero Prosperity Public License
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+License
+
+We use the License Zero Prosperity Public License, which essentially enshrines the following:
+
+    If you would like to use Dependabot Core for non-commercial purposes, such as to host a bot at your workplace, then we give you full permission to do so. In fact, we'd love you to, and will help and support you however we can.
+    If you would like to add Dependabot's functionality to your for-profit company's offering then we DO NOT give you permission to use Dependabot Core to do so. Please contact us directly to discuss a partnership or licensing arrangement.
+
+If you make a significant contribution to Dependabot Core then you will be asked to transfer the IP of that contribution to Dependabot Ltd so that it can be licensed in the same way as the above.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+The Prosperity Public License 1.0.1
+
+Copyright Notice: {Licensor Name}
+
+Source Notice: {https://example.com/project}
+
+This license lets you use and share this software for free,
+with a trial-length time limit on commercial use. Specifically:
+
+If you follow the rules below, you may do everything with this
+software that would otherwise infringe my copyright in it or any
+patent claim I can license that covers this software as of my
+latest contribution.
+
+1. You must limit use of this software in any manner primarily
+   intended for or directed toward commercial advantage or
+   private monetary compensation to a trial period of 32
+   consecutive calendar days. This limit does not apply to use in
+   developing feedback, modifications, or extensions that you
+   contribute back to those giving this license.
+
+2. Ensure everyone who gets a copy of this software from you,
+   in source code or any other form, gets the text of this
+   license and the copyright and source notices above.
+
+3. Do not make any legal claim against anyone for infringing
+   any patent claim they would infringe by using this software
+   alone, accusing this software, with or without changes,
+   alone or as part of a larger program.
+
+You are excused for unknowingly breaking rule 1 if you stop
+doing anything requiring this license within 30 days of
+learning you broke the rule.
+
+**This software comes as is, without any warranty at all. As far
+as the law allows, I will not be liable for any damages related
+to this software or this license, for any kind of legal claim.**
+	
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+License
+
+We have been unable to find a license that accurately fits Dependabot's needs (suggestions are welcome) so instead we offer the below permissions informally.
+
+If you would like to use Dependabot Core for non-commerical purposes, such as to host a bot at your workplace, then we give you full permission to do so. In fact, we'd love you to, and will help and support you however we can.
+
+If you would like to add Dependabot's functionality to your for-profit company's offering then we DO NOT give you permission to use Dependabot Core to do so. Please contact us directly to discuss a partnership or licensing arrangement.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+ spec.license = "GNU AGPL 3.0"
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+The project is licensed under the GNU GENERAL PUBLIC LICENSE Version 2.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+Dedicated to the public domain under CC0: https://creativecommons.org/publicdomain/zero/1.0/.
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------
+license_expression: 
+is_license_notice: yes
+is_license_reference: yes
+referenced_filenames:
+---
+
+--------------------

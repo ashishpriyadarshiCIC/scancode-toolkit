@@ -1,0 +1,201 @@
+
+Fan Power Controller (FPC) Firmware Update
+
+Installation README File
+
+Version: 3.10 BUILDID: FHET32B
+
+(C) Copyright International Business Machines Corporation 2008 - 2018.
+All rights reserved.
+US Government Users Restricted Rights - Use, duplication, or disclosure 
+restricted by GSA ADP Schedule Contract with IBM Corporation.
+
+===========================================================================
+This product contains certain code packages that are licensed pursuant
+to the terms of the GNU General Public License ("GPL") and/or the GNU
+Lesser General Public License ("LGPL"). The software packages that are
+licensed under the GPL or LGPL version 2 include:
+ 
+FW
+uboot version 1.2.0,
+Linux Kernel verson 2.6.23.1,
+busybox version 1.8.2,
+dosfstools version 2.11,
+ethtool version 6,
+rsyslog version 3.17.5,
+ifenslave version 1.1.0,
+iproute2 version 2.6.26,
+crosstool version 0.43,
+ifplugd version 0.28,
+ntp version 4.2.4p4,
+ 
+RPWEB
+iptables version 1.4.6
+libgsasl version 1.4.0
+libntlm version 1.2
+libpam version 1.1.1
+msmtp version 1.4.19
+Appweb version 2.4.2
+
+Source code to any of the above-listed packages is available upon
+written request to the following address:
+
+HON HAI PRECISION IND. CO., LTD. 
+No.2, Zihyou St., Tucheng Dist.,
+New Taipei City 236, Taiwan (R.O.C)
+===========================================================================
+
+CONTENTS
+________
+
+1.0   Overview
+2.0   Installation and Setup Instructions
+2.1   Updating the FPC firmware using the WebGUI interface
+3.0   Configuration Information
+4.0   Unattended Mode
+5.0   Web Sites and Support Phone Number
+6.0   Trademarks and Notices
+7.0   Disclaimer
+
+1.0   Overview
+
+       1.1  This README file contains the latest information about
+            installing the FPC firmware update.
+
+       1.2  Limitations:
+
+	    -  This utility is only able to update systems which can
+	       be reached via an Ethernet connection. If FPC cannot be 
+	       reached due to lack of a physical connection or firewall 
+	       protections, then the update will fail.
+	    -  Flashing back from 2.07 or newer version to 2.06 or prior version is not 
+               permitted.
+
+       1.3  Enhancements:
+
+	    -  Refer to the change history file ibm_fw_fpc_fhet32b-3.10_anyos_noarch.chg
+               for a history of enhancements and fixes.
+
+       1.4  Recommendations and Prerequisites for the Update:
+
+            IMPORTANT: The recommended firmware update sequence is IMM2 followed by UEFI 
+            followed by DSA Preboot followed by FPC               
+
+       1.5  Dependencies:
+            - none
+                 
+2.0   Installation and Setup Instructions
+
+      The procedure to update FPC is as follows:
+
+      NOTE: In Windows Server 2008, the firewall may be enabled by default. 
+            In some configurations, this could prevent the flash utility from
+            succeeding.  The firewall may need to be disabled if it is suspected
+            to be preventing the update traffic.
+	  	  
+      NOTE: Supported web browsers include 
+	    IE8 (Windows 7/64-bit Windows Server 2008 R2 Standard/64-bit Windows Server 2008 R2 Enterprise only) or later, 
+	    Firefox 27 or later, 
+	    Google Chrome 30 or later.
+	  
+      NOTE: For increased security, only high strength ciphers are now supported on FHET24B(2.07) or later version when using https. 
+	    Please follow below procedure to enable TLS1.2 or higher version on your web browser if it's not enabled by default.
+			
+	    For IE(v8-v10) -- Open Internet Explorer. Select "Tools" > "Internet Options". 
+			      Click the "Advanced" tab, and then select the "Use TLS 1.2" check box. 
+			      (http://technet.microsoft.com/en-us/library/dd560644%28v=WS.10%29.aspx)
+			
+	    For Firefox(v27) -- Open Firefox. Type "about:config" in the address bar and move pass the warning message. Search "tls". 
+				Make sure "security.enable_tls" = true and "security.tls.version.max" = 3 to enable TLS1.2 support.
+				(http://kb.mozillazine.org/Security.tls.version.*#Firefox)
+
+      2.1  Extracting the update contents
+
+          ibm_fw_fpc_fhet32b-3.10_anyos_noarch.zip package contents:
+
+           - The FPC firmware update file named ibm_fw_fpc_fhet32b-3.10_anyos_noarch.rom
+           - Management Information Base file (MIB) FPCAlert.mib 
+             which is used to manage the FPC through SNMP
+           - FPCFWUpdateUtility.zip is a remote firmware update utility using IPMI commands
+	     Remote, unattended, and batch firmware update can be achieved running proper script with this utility.
+
+      2.2 Updating the FPC firmware using the WebGUI interface
+      
+	   - Start web browser
+           - Log in to FPC Web https://xxx.xxx.xxx.xxx
+	   - Default network configuration: IPv4, Static IP = 192.168.0.100; IPv6 with IP = LLA 
+	   - Default login user ID & Password
+		Username : USERID
+		Password : PASSW0RD
+	   - Navigate to "Configuration" tab to update firmware.
+	  
+	  NOTE: Before update, make sure 'Preserve Settings' is checked to preserve and apply current FPC settings.
+	  
+      2.3 Updating the FPC firmware using the Remote firmware update utility
+	  
+	   - TFTP/FTP/HTTP server or utility is required to perform remote firmware update with this utility. 
+	   - Please unzip ibm_fw_fpc_fhet32b-3.10_anyos_noarch.zip and copy ibm_fw_fpc_fhet32b-3.10_anyos_noarch.rom
+	     to TFTP/FTP/HTTP server or utility repository.
+	   - Unzip FPCFWUpdateUtility.zip and copy "FPCFWUpdateUtility" folder to your destination working directory 
+	     and keep its file structure.
+	   - Refer to ReadMe.txt in FPCFWUpdateUtility directory for firmware update procedures.
+	   - Refer to ReadMe.txt in the applicable OS folder (32/64bit-Windows/Linux/FreeBSD) for script writting method.
+	   - Make sure you copy the correct bmcfwuw.exe (Windows OS), bmcfwul (Linux), or bmcfwub (FreeBSD) execution 
+	     file and script file to UtilLib folder. 
+	   - Please also read KnownIssues.txt to avoid problemtic environments.
+
+3.0  Configuration Information
+
+         - This update package does not provide the description to set or modify FPC configuration settings.
+
+4.0  Unattended Mode
+
+         - Please refer to 2.3 for unattend firmware update.          
+
+
+5.0  Web Sites and Support Phone Number
+
+       5.1  Support Web Site:
+            http://www.ibm.com/systems/support
+
+       5.2  Marketing Web Site:
+            http://www-03.ibm.com/systems/x/
+
+       5.3  If you have any questions about this update, or problems
+            applying the update go to the following Help Center World
+            Telephone Numbers URL:
+            http://www.ibm.com/planetwide/index.html
+
+
+6.0  Trademarks and Notices
+
+       6.1  IBM is a registered trademark of International Business Machines
+            Corporation in the United States, other countries, or both.
+
+       6.2  U.S. Government Users Restricted Rights - Use, duplication
+            or disclosure restricted by GSA ADP Contract with IBM
+            Corporation.  IBM web site pages may contain other
+            proprietary notices and copyright information which should
+            be observed.
+
+            Microsoft and Windows are registered trademarks of Microsoft
+            Corporation in the United States and other countries.
+
+            Other company, product, or service names may be trademarks
+            or service marks of others.
+
+
+7.0  Disclaimer
+
+           THIS DOCUMENT IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY
+           KIND.  IBM DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS OR
+           IMPLIED, INCLUDING WITHOUT LIMITATION, THE IMPLIED WARRANTIES
+           OF FITNESS FOR A PARTICULAR PURPOSE AND MERCHANTABILITY WITH
+           RESPECT TO THE INFORMATION IN THIS DOCUMENT.  BY FURNISHING
+           THIS DOCUMENT, IBM GRANTS NO LICENSES TO ANY PATENTS OR
+           COPYRIGHTS.
+
+	   
+
+
+

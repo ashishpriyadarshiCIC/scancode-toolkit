@@ -1,0 +1,109 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="robots" content="index,nofollow">
+
+<title>OpenCellLibrary/License - LayoutEditor Wiki</title>
+<script type="text/javascript" src="../../moin_static198/common/js/common.js"></script>
+
+<script type="text/javascript">
+<!--
+var search_hint = "Search";
+//-->
+</script>
+
+
+<link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="../../moin_static198/layout/css/common.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="screen" href="../../moin_static198/layout/css/screen.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="print" href="../../moin_static198/layout/css/print.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="projection" href="../../moin_static198/layout/css/projection.css">
+
+<!-- css only for MS IE6/IE7 browsers -->
+<!--[if lt IE 8]>
+   <link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/moin_static198/layout/css/msie.css">
+<![endif]-->
+
+
+<link rel="alternate" title="LayoutEditor Wiki: OpenCellLibrary/License" href="License?diffs=1&amp;show_att=1&amp;action=rss_rc&amp;unique=0&amp;page=OpenCellLibrary%252FLicense&amp;ddiffs=1" type="application/rss+xml">
+
+<script type="text/javascript" src="../../moin_static198/layout/js/actionmenuoptions.js"></script>
+<link rel="shortcut icon" type="image/x-icon" href="../../favicon.ico" >
+<meta name="viewport" content="width=470, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+
+
+<link rel="Start" href="../FrontPage">
+<link rel="Alternate" title="Wiki Markup" href="http://www.layouteditor.net/wiki/OpenCellLibrary/License?action=raw">
+<link rel="Alternate" media="print" title="Print View" href="http://www.layouteditor.net/wiki/OpenCellLibrary/License?action=print">
+<link rel="Up" href="../OpenCellLibrary">
+<link rel="Search" href="../FindPage">
+<link rel="Index" href="../TitleIndex">
+<link rel="Glossary" href="../WordIndex">
+<link rel="Help" href="../HelpOnFormatting">
+</head>
+
+<body  lang="en" dir="ltr">
+
+<div class="toptable">
+<a href="../../index.html"><img src="../../logo.png" alt="the fair gds editor"  width=200  height=80  ></a>
+
+ <a class="toptable" href="../OpenCellLibrary">OpenCellLibrary</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="toptable" href="http://www.layouteditor.net/wiki/OpenCellLibrary/License?action=fullsearch&amp;context=180&amp;value=linkto%3A%22OpenCellLibrary%2FLicense%22" rel="nofollow" title="Click to do a full-text search for this title">License</a> 
+
+</div>
+<div id="username"></div>
+<div class="main">
+
+<div class="sidebar col-right">
+<img src="../../cadocl.png" alt="cad design" >
+</div>
+
+<div class="col-main">
+
+<div id="page" lang="en" dir="ltr">
+<div dir="ltr" id="content" lang="en"><span class="anchor" id="top"></span>
+<span class="anchor" id="line-1"></span><span class="anchor" id="line-2"></span><span class="anchor" id="line-3"></span><span class="anchor" id="line-4"></span><span class="anchor" id="line-5"></span><span class="anchor" id="line-6"></span><p class="line867">
+<h1 id="OpenCellLibrary_License">OpenCellLibrary License</h1>
+<span class="anchor" id="line-7"></span><span class="anchor" id="line-8"></span><p class="line874">The Open Cell Library is intended for use by universities, other research activities, educational programs and Si2.org members.  <span class="anchor" id="line-9"></span>However allowed, the Open Cell Library is not intended for commercial use. If you use the Open Cell Library for demonstration of commercial EDA tools <span class="anchor" id="line-10"></span>it is required to mention, indicate that the library was developped by Nangate. <span class="anchor" id="line-11"></span><span class="anchor" id="line-12"></span><p class="line862">If you have questions or concerns then please contact us at <a class="mailto" href="mailto:openlibrary@nangate.com">openlibrary@nangate.com</a> <span class="anchor" id="line-13"></span><span class="anchor" id="line-14"></span><p class="line874">The Open Cell Library is provided by Nangate under the following License: <span class="anchor" id="line-15"></span><span class="anchor" id="line-16"></span><p class="line867">
+<h2 id="Nangate_Open_Cell_Library_License">Nangate Open Cell Library License</h2>
+<span class="anchor" id="line-17"></span><p class="line874">Version 1.0. February 20, 2008 <span class="anchor" id="line-18"></span><span class="anchor" id="line-19"></span><p class="line874">Permission is hereby granted, free of charge, to any person or organization obtaining a copy of the Open Cell Library and accompanying documentation (the &quot;Library&quot;) covered by this license to use, reproduce, display, distribute, execute, and transmit the Library, and to prepare derivative works of the Library, and to permit third-parties to whom the Library is furnished to do so, all subject to the following: <span class="anchor" id="line-20"></span><span class="anchor" id="line-21"></span><p class="line874">The copyright notices in the Library and this entire statement, including the above license grant, this restriction and the following disclaimer, must be included in all copies of the Library, in whole or in part, and all derivative works of the Library, unless such copies or derivative works are solely in the form of machine-executable object code generated by a source language processor. The library has been generated using a non-optimized open PDK and is not suited for any commercial purpose. Measuring or benchmarking the Library against any other library or standard cell set is prohibited. Any meaningful library benchmarking must be done in collaboration with Nangate or other providers of optimized and production-ready PDKs. <span class="anchor" id="line-22"></span><span class="anchor" id="line-23"></span><p class="line874">THE LIBRARY IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE LIBRARY BE LIABLE FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LIBRARY OR THE USE OR OTHER DEALINGS IN THE LIBRARY.  <span class="anchor" id="line-24"></span><span class="anchor" id="line-25"></span><p class="line867">
+<h2 id="See_also">See also</h2>
+<span class="anchor" id="line-26"></span><span class="anchor" id="line-27"></span><ul><li><p class="line891"><a href="../OpenCellLibrary">OpenCellLibrary</a> <span class="anchor" id="line-28"></span><span class="anchor" id="line-29"></span></li></ul><p class="line867"><hr /><p class="line874"> <span class="anchor" id="line-30"></span><a class="nonexistent" href="http://www.layouteditor.net/wiki/CategoryOpenCellLibrary">CategoryOpenCellLibrary</a> <span class="anchor" id="line-31"></span><span class="anchor" id="bottom"></span></div><br><div class="footer">
+<a href="https://cloud.layouteditor.com/?shop=1-LEF1N">License Store</a>
+ | 
+<a href="../../index.php5#download">Download</a>
+ | 
+<a href="https://www.layoutEditor.org">Manual</a>
+ | 
+<a href="https://cloud.layouteditor.com?support">Support</a>
+ | 
+<a href="https://layouteditor.org/info/impressum">Impressum</a>
+ | 
+<a href="https://layouteditor.org/info/privacy-policy">Data Privacy Policy</a>
+</div>
+<p id="pageinfo" class="info" lang="en" dir="ltr">OpenCellLibrary/License  (last edited 2011-03-29 10:56:52 by <span title="??? @ dslb-088-064-003-217.pools.arcor-ip.net[88.64.3.217]">dslb-088-064-003-217</span>)</p>
+
+<div id="pagebottom"></div>
+</div>
+
+</div>
+</div>
+<div id="footer">
+<ul id="credits"><li>
+<a href="http://www.juspertor.com">&copy; 2009-2019 juspertor GmbH</a></li>
+</ul>
+
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-570713-5");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>
+

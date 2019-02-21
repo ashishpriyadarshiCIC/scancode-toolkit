@@ -1,0 +1,65 @@
+Project FreeCard License - Version 1.0
+--------------------------------------------------------------------
+
+People :
+----------------------------------
+
+Author : Project FreeCard
+
+Text :
+----------------------------------
+
+
+The FreeCard exception from the GPL
+
+If you intend to contribute to FreeCard, you have to place your contribution 
+  either under the GNU General Public License 
+  (GPL) or the GNU Lesser General Public License (LGPL). The best way to do this 
+  is to add the following notice to your contribution's readme file or add it 
+  as a comment to the start of any source code files you may be submitting:
+
+ is (c) Copyright 
+   by . It is free software; you can distribute it
+   and/or modify it under the terms of the GNU General Public License
+   as published by the Free Software Foundation; either version 2 of
+   the License, or (at your option) any later version.
+   
+   As a special exception, you may
+   publish an integrated combination of FreeCard in executable form
+   together with your data to be displayed using FreeCard, under your
+   choice of license, provided that (1) the license does not permit
+   extraction of the FreeCard executable from the combination other
+   than in accord with the terms of the GNU General Public License,
+   that (2) you state prominently either in or with the combination
+   the precise location where the complete corresponding source code
+   for the same version of FreeCard is openly available on a widely
+   used network, and where you can reasonably expect it to remain
+   available for at least one year after you first publish the
+   combination.
+   
+    is distributed in the hope that it
+   will be useful, but WITHOUT ANY WARRANTY; without even the implied
+   warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+   See the GNU General Public License for more details. You should
+   have received a copy of the GNU General Public License along with
+   ; if not, write to the Free Software
+   Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
+   02111-1307, USA.
+
+You will also want to add information on how to contact you by
+electronic and paper mail. There are also some more things you might
+want to consider, which you can find in the section on applying the
+GPL to your new programs. Note that it documents how to use the GPL
+without the special exception required for FreeCard source code.
+
+
+Events :
+----------------------------------
+
+     Project FreeCard License - Version 1.0 -- Added to http://www.CopyLeftLicense.com : May 12, 2017
+
+About This Textfile :
+----------------------------------
+
+     Text file generated from : 
+http://www.CopyLeftLicense.com/

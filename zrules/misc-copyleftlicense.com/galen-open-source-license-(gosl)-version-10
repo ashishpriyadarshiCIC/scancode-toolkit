@@ -1,0 +1,152 @@
+GALEN Open Source License (GOSL) - Version 1.0
+--------------------------------------------------------------------
+
+People :
+----------------------------------
+
+Author : OpenGALEN
+
+Text :
+----------------------------------
+
+
+
+The GALEN Open Source License (GOSL)
+
+
+
+Version 1.0 11th October 1999
+
+
+
+The OpenGALEN Clinical Terminology is Copyright © the University of
+Manchester, UK, the University of Nijmegen, NL, and their contributors.
+
+
+
+‘Source Material’ refers to:
+
+
+text files containing Grail source code, GALEN Intermediate
+Representation dissections, GALEN Intermediate Representation
+configuration files, or linguistic or other mappings relating to the
+OpenGALEN Clinical Terminology, AND which contain the following (or
+substantially similar) notice: "The contents of this file are Copyright
+© the Universities of Manchester and Nijmegen and are covered by the
+GALEN Open Source License (GOSL), a copy of which should be found as
+part of the package within which this file was found, or which can be
+obtained from
+
+www.opengalen.org
+. You are free to use, modify and re-distribute this material, as
+long as this notice remains intact, and as long as any modifications
+you make are clearly indicated."
+
+
+OR
+
+
+binary data-sets containing material as described above (which
+could be represented in textual form), but which are readable by
+commonly available database or spreadsheet applications, and which have
+as part of their description or comment the same notice as described
+above
+
+
+‘Compiled form’ refers to:
+
+
+Binary representations which result from the application of the
+functionality of a GALEN Terminology Server on Source Material. For a
+description of the GALEN Terminology Server, see
+
+www.opengalen.org
+
+.
+
+
+‘OpenGALEN Clinical Terminology’ refers to:
+
+
+
+Source Material and/or Compiled form (or substantive derivatives) licensed through OpenGALEN (
+
+www.opengalen.org
+
+). The arbiter of ‘substantive derivative’ shall be OpenGALEN.
+
+Redistribution of Source Material, and its use in Source Material
+and Compiled forms, with or without modification, are permitted
+provided that the following conditions are met:
+
+
+Re-distributions of Source Material must retain the whole text of
+this GOSL (or, at your choice, any minor-version updates of this GOSL
+numbered 1.x published at
+
+www.opengalen.org
+) verbatim (including Disclaimer) in a prominently visible file
+accompanying such distribution, and each individual file must retain
+its copyright notice as described in the definition of 'Source
+Material' above.
+
+
+Modifications of Source Material must retain the original copyright
+notice in each file, together with a description of what modifications
+were made, when, and by whom.
+
+Re-distributions in Compiled form must reproduce the whole text of
+this GOSL (or, at your choice, any minor-version updates of this GOSL
+numbered 1.x published at
+
+www.opengalen.org
+) verbatim (including Disclaimer) in the documentation and/or other
+materials provided with the distribution. Re-distribution in Compiled
+form must be accompanied by the Source Material from which the Compiled
+form came about.
+
+
+All advertising materials of any product mentioning features or use
+of the OpenGALEN Clinical Terminology must display the following
+acknowledgement, which must also be prominently visible within, or as
+part of the start-up of, any application that uses the OpenGALEN
+Clinical Terminology at run-time, or which has benefited from it use
+during build/development-time:
+
+"This product uses the OpenGALEN Clinical Terminology, Copyright the
+Universities of Manchester and Nijmegen, licensed through OpenGALEN
+(www.opengalen.org)."
+
+
+Neither name of the University of Manchester or Nijmegen, nor the
+names of its contributors, nor that of OpenGALEN may be used to endorse
+or promote products without specific prior written permission.
+
+
+Disclaimer:
+
+
+THIS MATERIAL IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A
+PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS MATERIAL, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+
+Events :
+----------------------------------
+
+     GALEN Open Source License (GOSL) - Version 1.0 -- Added to http://www.CopyLeftLicense.com : May 08, 2017
+
+About This Textfile :
+----------------------------------
+
+     Text file generated from : 
+http://www.CopyLeftLicense.com/

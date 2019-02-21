@@ -1,0 +1,385 @@
+GNU Simpler Free Documentation License (GSFDL) - Version 1
+--------------------------------------------------------------------
+
+People :
+----------------------------------
+
+Author : GNU Project
+
+Text :
+----------------------------------
+
+
+GNU Simpler Free Documentation License
+Discussion Draft 1 of Version 1, 25 September 2006
+
+THIS IS A DRAFT, NOT A PUBLISHED VERSION OF THE GNU SIMPLER FREE
+DOCUMENTATION LICENSE
+
+ Copyright (C) 2000, 2002, 2006  Free Software Foundation, Inc.
+     51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+
+0. WHAT THIS LICENSE DOES
+
+The purpose of this License is to make a work of authorship free.
+This means giving all users the four essential freedoms:
+
+  0. The freedom to read, view, or use the work.
+  1. The freedom to change the work, with access to formats
+     which make that convenient to do.
+  2. The freedom to make and redistribute copies of the work.
+  3. The freedom to distribute modified versions.
+Secondarily, this License assures the author and publisher the credit
+for their work, while sparing them any appearance of being responsible
+for modifications made by others.
+
+This License is a kind of "copyleft", which means that derivative
+works of the document must themselves be free in the same sense.  It
+complements the GNU General Public License, which is a copyleft
+license designed for free software.
+
+This License is not limited to "documentation", or even to works that
+are textual; it can be used for any work of authorship meant for human
+appreciation, rather than machine execution.  We recommend this
+License principally for works whose purpose is instruction or
+reference, but it can be used for any work regardless of the subject
+matter, even for art and fiction.  The only kind of work for which
+this should not be used is software.
+
+
+0a. FREE MANUALS ARE ESSENTIAL
+
+Free manuals are essential for free software.  Users must have freedom
+to redistribute (including commercial sale of printed copies), so that
+the manual, on-line or on paper, can accompany every copy of the
+program.  When users modify the program, adding or changing features,
+they must be free to update the manual too, to keep it accurate.
+
+Although free manuals are essential, many important free programs lack
+good free reference manuals and free introductory texts.  Sometimes
+this is because the programs' developers wrote non-free manuals, not
+recognizing the need for documentation to be free.  Please help spread
+the the word that free software needs free reference manuals and free
+tutorials.
+
+You can encourage commercial publishers to publish more free manuals
+and textbooks by buying printed copies of them, and by rejecting
+non-free manuals.  Pay money for value, but don't pay with your freedom.
+
+If you are writing a manual or textbook, please insist on publishing
+it under a free license.  Don't let a publisher talk you out of it; if
+one publisher refuses to use a free license, switch to one that will.
+If you're not sure whether a proposed license is free, write to
+licensing@gnu.org.
+
+
+1. APPLICABILITY AND DEFINITIONS
+
+  In this License, each licensee is addressed as "you," while "the
+Work" refers to any work, in any medium, that contains a notice placed
+by the copyright holder saying it can be distributed under the terms
+of this License.  It may physically consist of multiple volumes.  A
+"modified" work includes versions that have been translated,
+transformed, or adapted, or to which material has been added.  A work
+"based on" another work means any modified version for which
+permission is necessary under applicable copyright law.
+
+To "propagate" a work means doing anything with it that requires
+permission under applicable copyright law, except making modifications
+that you do not share.  Propagation includes copying, distribution
+(with or without modification), making available or communicating to
+the public,publicly displaying or performing the work and in some
+countries other activities as well.  To "convey" a work means any kind
+of propagation that enables other parties to make or receive copies,
+excluding sublicensing.
+
+A "Transparent" copy of the Work means a machine-readable copy,
+represented in a format whose specification is available to the
+general public, that is suitable for revision straightforwardly by
+generic editors appropriate to the medium (text, sound, video, etc.),
+and that is suitable (perhaps through programmed format conversion) for
+input to a wide variety of programs for processing that medium.
+Material stored in an otherwise Transparent file format in a way that
+thwarts or discourages subsequent substantial modification by others
+is not Transparent.  A copy that is not "Transparent" is called
+"Opaque".
+
+Examples of suitable formats for Transparent copies of textual works
+include plain ASCII without markup, Texinfo input format, LaTeX input
+format, SGML or XML using a publicly available DTD or schema,
+OpenDocument format, and standard-conforming simple HTML, PostScript
+or PDF designed for human modification.  Examples of transparent image
+formats include PNG, XCF and JPG.  Examples of transparent video
+formats include MPEG2 and Ogg Theora.  Opaque formats include
+proprietary formats that can be read and edited only by proprietary
+word processors, SGML or XML for which the DTD, schema and/or
+processing tools are not generally available, and the
+machine-generated HTML, PostScript or PDF produced by some word
+processors for output purposes only.
+
+The "Title Page" means the portion of the work where information such
+as title, authors, date of publication, and copyright notice would
+normally appear.
+
+A section "Entitled XYZ" means a named section of the Work whose
+title either is precisely XYZ or contains XYZ in parentheses following
+text that translates XYZ in another language.  (Here XYZ stands for a
+specific section name mentioned below, such as "Acknowledgements",
+"Dedications", "Endorsements", or "History".)  To "Preserve the Title"
+of such a section when you modify the Work means that it remains a
+section "Entitled XYZ" according to this definition.
+
+The Work may include Warranty Disclaimers next to the notice which
+states that this License applies to the Work.  These Warranty
+Disclaimers are considered to be included by reference in this
+License, but only as regards disclaiming warranties: any other
+implication that these Warranty Disclaimers may have is void and has
+no effect on the meaning of this License.
+
+
+1a. BASIC PERMISSIONS
+
+You have a world-wide, royalty-free license, for the duration of the
+copyright on the Work, to use the Work under the conditions stated
+herein.  You accept the license if you propagate the Work.
+
+
+2. VERBATIM COPYING
+
+You may propagate the Work unmodified in any medium, either commercially or
+noncommercially, provided that this License, the copyright notices,
+and the license notice saying this License applies to the Work are
+reproduced in all copies, and that you add no other conditions
+whatsoever to those of this License.
+
+You need not include a copy of this License in the Work if you have
+registered the work's license with a national agency that maintains a
+network server through which the general public can find out its
+license.
+
+You may not apply technical measures to obstruct or control the use or
+further copying of any copies you make or distribute, by those to whom
+they may be distributed.  However, you may charge a fee in exchange
+for copies.  You may transmit copies with methods that give you legal
+rights to control further use, copying or transmission, only on
+condition that you waive the use of those legal rights to impose any
+conditions aside from those of this License.
+
+You may publically perform the Work provided you make a transparent
+copy of the document available as described in section 3 as though you
+had propagated opaque copies to the audience.
+
+
+3. COPYING IN QUANTITY
+
+If you publish printed copies (or copies in media that commonly have
+printed covers) of the Work, numbering more than 100, the front
+cover must clearly and unambiguously present the full title.  Copying
+with changes limited to the covers, under these conditions, can be
+treated as verbatim copying in other respects.
+
+If you convey Opaque copies of the Work numbering more than 100, you
+must also convey a corresponding machine-readable Transparent version.
+The Transparent version need not have identical formatting as long as
+its contents are the same and are clearly visible, and non-textual
+contents have equal or superior resolution and quality.  When you
+convey the Opaque copies by offering access to copy from a designated
+place, you must offer equivalent access to copy the Transparent
+version from the same place.  Otherwise, you must convey a
+machine-readable Transparent copy along with each Opaque copy, or
+state in or with each Opaque copy a computer-network location from
+which the general network-using public has anonymous gratis access to
+download, using public-standard network protocols, a corresponding
+Transparent copy of the Work.  Under the latter option, you must take
+reasonably prudent steps, when you begin conveying Opaque copies in
+quantity, to ensure that this Transparent copy will remain thus
+accessible at the stated location until at least one year after the
+last time you convey an Opaque copy (directly or through your
+agents or retailers) of that edition to the public.
+
+It is requested, but not required, that you contact the authors of the
+Work well before conveying any large number of copies, to give
+them a chance to provide you with an updated version of the Work.
+
+
+4. MODIFICATIONS
+
+You may convey a Modified Version of the Work under the conditions of
+sections 2 and 3 above, provided that you release the Modified Version
+under precisely this License, with the Modified Version filling the
+role of the Work, thus licensing distribution and modification of the
+Modified Version to whoever possesses a copy of it.  In addition, you
+must do these things in the Modified Version:
+
+A. Use a title distinct
+   from that of the Work, and from those of previous versions
+   of the Work as listed in the History section.
+B. List as authors (on the Title Page, if any), one or more persons or entities
+   responsible for authorship of the modifications in the Modified Version.
+C. Credit (on the Title Page, if any) at least five of the principal authors of
+   the Work (all of them, if it has fewer than five) if the material
+   derived from the Work is more than 1/4 of the total.
+D. Prominently state the name of the publisher of the Modified Version.
+E. Preserve all the copyright notices of the Work.
+F. Add an appropriate copyright notice for your modifications
+   adjacent to the other copyright notices.
+G. Include, immediately after the copyright notices, a license notice
+   giving the public permission to use the Modified Version under the
+   terms of this License, in the form shown in the Addendum below.
+H. Include an unaltered copy of this License.
+I. Preserve the section Entitled "History", Preserve its Title, and add
+   to it an item stating at least the title, year, new authors, and
+   publisher of the Modified Version.  If
+   there is no section Entitled "History" in the Work, create one
+   stating the title, year, authors, and publisher of the Work,
+   then add an item describing the Modified
+   Version as stated in the previous sentence.
+J. Preserve the network location, if any, given in the Work for
+   public access to a Transparent copy of the Work, and likewise
+   the network locations given in the Work for previous versions
+   it was based on.  These may be placed in the "History" section.
+   You may omit a network location for a work that was published at
+   least four years before the Work itself.
+K. For any section Entitled "Acknowledgements" or "Dedications",
+   Preserve the Title of the section, and preserve in the section all
+   the substance and tone of each of the contributor acknowledgements
+   and/or dedications given therein.  Acknowledgments and Dedications
+   can be deleted when a Modified Version deletes all material to
+   which the Acknowledgments and Dedications could reasonably have
+   applied.
+L. Delete any section Entitled "Endorsements".  Such a section
+   may not be included in the Modified Version.
+M. Do not retitle any existing section to be Entitled "Endorsements".
+N. Preserve any Warranty Disclaimers.
+Authors and publishers of previous versions can release you from above
+requirements to cite or refer to them or their versions.
+
+You may add a section Entitled "Endorsements", provided it contains
+nothing but endorsements of your Modified Version by various
+parties--for example, statements of peer review or that the text has
+been approved by an organization as the authoritative definition of a
+standard.
+
+The author(s) and publisher(s) of the Work do not by this License
+give permission to use their names for publicity for or to assert or
+imply endorsement of any Modified Version.
+
+
+5. COMBINATIONS
+
+You may combine the Work with other works released under this License,
+under the terms defined in section 4 above for modified versions.
+Clause 4C applies to all the principal authors of all the combined
+documents, taken together.
+
+The combined work need only contain one copy of this License.  In the
+combination, you must preserve all warranty disclaimers, combine any
+sections Entitled "History" in the various original works, forming one
+section Entitled "History"; likewise combine any sections Entitled
+"Acknowledgements", and any sections Entitled "Dedications".  You must
+delete all sections Entitled "Endorsements".
+
+
+6. COLLECTIONS
+
+You may make a collection consisting of the Work and other works
+released under this License, and replace the individual copies of this
+License in the various works with a single copy that is included in
+the collection, provided that you follow the rules of this License for
+verbatim copying of each of the works in all other respects.
+
+You may extract one of the collected works from such a collection, and
+distribute it individually under this License, provided you insert a
+copy of this License into the extracted work, and follow this License
+in all other respects regarding verbatim copying of that work.
+
+
+6a. EXCERPTS
+
+You may publish a work, a Modified Version, or a collection, of up
+to 20,000 characters of text (excluding formatting mark-up) in
+electronic form, or up to 12 normal printed pages, or up to a minute
+of audio or video, as an Excerpt.  An Excerpt follows the applicable
+rules of this license, except that the following required
+materials--the copy of this license, title page materials, historical
+copyright notices, warranty disclaimers, and any required
+sections--may be replaced by one or more publicly accessible URLs
+referring to the same materials.
+
+
+7. AGGREGATION WITH INDEPENDENT WORKS
+
+A compilation of the Work or its derivatives with other separate and
+independent works, in or on a volume of a storage or distribution
+medium, is called an "aggregate" if the compilation and the copyright
+resulting from the compilation are not used to limit the legal rights
+of the compilation's users beyond what the individual works permit.
+Including the Work in an aggregate does not cause this License to
+apply to the other works in the aggregate which are not themselves
+derivative works of the Work.
+
+
+8. TRANSLATION
+
+Translation is considered a kind of modification, so you may
+distribute translations of the Work under the terms of section 4.
+You may include a translation of this License, and all the license
+notices in the Work, and any Warrany Disclaimers, provided that
+you also include the original English version of this License and the
+original versions of those notices and disclaimers.  In case of a
+disagreement between the translation and the original version of this
+License or a notice or disclaimer, the original version will prevail.
+
+If a section in the Work is Entitled "Acknowledgements",
+"Dedications", or "History", the requirement (section 4) to Preserve
+its Title (section 1) will typically require changing the actual
+title.
+
+
+9. TERMINATION
+
+You may not propagate or modify the Work except as
+expressly provided for under this License.  Any attempt otherwise to
+do so is void.  If you violate this License, any copyright holder may
+put you on notice by notifying you of the violation, by any reasonable
+means, provided 60 days have not elapsed since the last violation.
+Having put you on notice, the copyright holder may then terminate your
+license at any time.  However, parties who have received copies, or
+rights, from you under this License will not have their licenses
+terminated so long as they remain in full compliance.
+
+
+10. FUTURE REVISIONS OF THIS LICENSE
+
+The Free Software Foundation may publish new, revised versions of the
+GNU Simpler Free Documentation License from time to time.  Such new
+versions will be similar in spirit to the present version, but may
+differ in detail to address new problems or concerns.  See
+http://www.gnu.org/copyleft/.
+
+Each version of the License is given a distinguishing version number.
+If the Work specifies that a particular numbered version of this
+License "or any later version" applies to it, you have the option of
+following the terms and conditions either of that specified version or
+of any later version that has been published (not as a draft) by the
+Free Software Foundation.  If the Work does not specify a version
+number of this License, you may choose any version ever published (not
+as a draft) by the Free Software Foundation.
+
+For instructions on how to use this License,
+see http://www.gnu.org/licenses/.
+
+
+Events :
+----------------------------------
+
+     GNU Simpler Free Documentation License (GSFDL) - Version 1 -- Added to http://www.CopyLeftLicense.com : May 08, 2017
+
+About This Textfile :
+----------------------------------
+
+     Text file generated from : 
+http://www.CopyLeftLicense.com/
